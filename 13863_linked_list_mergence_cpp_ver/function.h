@@ -4,8 +4,18 @@
 #include <algorithm>
 #include <string>
 
-using std::exchange;
 using std::string;
+#if __cplusplus >= 201402L
+using std::exchange;
+#else
+template<typename T, typename U = T>
+T exchange(T &lhs, U &&rhs)
+{
+    T y = lhs;
+    lhs = rhs;
+    return y;
+}
+#endif
 
 /**
  * Declarations
@@ -157,9 +167,9 @@ T &linked_list<T>::iterator::operator*()
     // TODO:
 }
 
-// Forward the itarator by posdtfix increament
+// Forward the itarator by pre-increament
 template <typename T>
-typename linked_list<T>::iterator linked_list<T>::iterator::operator++(int x)
+typename linked_list<T>::iterator linked_list<T>::iterator::operator++()
 {
     // TODO:
 }

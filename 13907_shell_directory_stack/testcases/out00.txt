@@ -1,0 +1,16 @@
+/etc
+/root
+/
+/usr
+/usr/local/bin
+/usr/local
+/usr/local/bin
+/opt
+pushd: no other directory
+/var /opt
+/dev /var /opt
+/var /dev /opt
+/dev /dev /opt
+/dev /opt
+/opt
+popd: directory stack empty

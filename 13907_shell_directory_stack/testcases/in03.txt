@@ -1,611 +1,611 @@
 cd -
-dirs 
-pwd 
+dirs
+pwd
 cd /DZJhw657R
-pwd 
+pwd
 pushd ~/Aa/78oJjZs/Px41hy/DOJKzA/bDDfRU5O/C2/o
 pushd /
 pushd /
-dirs 
+dirs
 cd /NWe6UUpCv4/cy5/xaUu
-popd 
-dirs 
-popd 
-popd 
-dirs 
+popd
+dirs
+popd
+popd
+dirs
 pushd -
-dirs 
+dirs
 cd /
 cd ~/dKhDr
-pwd 
-dirs 
+pwd
+dirs
 pushd ~/l/xA/7Oir2Fwhg
-popd 
+popd
 cd /0x/GTFV/XpE
-popd 
+popd
 pushd ~
-pwd 
+pwd
 cd ~
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
 pushd ~
-pwd 
-popd 
+pwd
+popd
 cd -
 pushd -
-pwd 
+pwd
 cd /9q/o2hV3/kWn
 pushd ~
-pwd 
+pwd
 pushd -
-popd 
-popd 
-popd 
-dirs 
+popd
+popd
+popd
+dirs
 pushd /I7f1H9vrj/1aQf/6u4C54Nr5O/JOS8CijUv/NDLh8Ueqs/3SYymW89z
-pwd 
+pwd
 pushd ./ZQ
 pushd -
-pwd 
+pwd
 cd ~/qi
-popd 
-dirs 
+popd
+dirs
 cd ~/j5490w/2kC/4l9/Qf/oS1AaCC
-dirs 
-popd 
-pwd 
-pwd 
+dirs
+popd
+pwd
+pwd
 pushd -
-dirs 
-pwd 
+dirs
+pwd
 pushd /
 cd -
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 cd ~/8a1c/ay/bxcXA
-dirs 
-popd 
-popd 
-popd 
-popd 
+dirs
+popd
+popd
+popd
+popd
 pushd ~
 cd .
 cd /n547emKnu/QmbJi/rBzjr/nFSSOlvhU/hp0e/rsBbZ
 cd -
-dirs 
-dirs 
+dirs
+dirs
 pushd -
 pushd -
-pwd 
-dirs 
-pwd 
-pwd 
-popd 
+pwd
+dirs
+pwd
+pwd
+popd
 pushd /o0JVE73
 pushd ~
-dirs 
+dirs
 pushd ./3tO86BBZRH/u8P6g/mXIvwS/Qhhh
 pushd /EV/1k6xzXOz
-pwd 
-dirs 
+pwd
+dirs
 pushd /j/opJ4nF/axX/1vEJPpV/I6/vOD0RsEz/k8ksBy14Iz
 cd .
-dirs 
-dirs 
-popd 
+dirs
+dirs
+popd
 cd /t
 pushd .
-dirs 
-popd 
+dirs
+popd
 cd .
 pushd /X2UnY/OI1BqS2s/EjfA
-popd 
-dirs 
-pwd 
-dirs 
+popd
+dirs
+pwd
+dirs
 pushd /1W
-dirs 
-dirs 
+dirs
+dirs
 cd /vi95Vdt/Ukr/zzycf
-dirs 
-popd 
-dirs 
+dirs
+popd
+dirs
 pushd /RThw/KyxP1VF1w3
 pushd ~
-dirs 
-dirs 
+dirs
+dirs
 cd ./gO6GDX2
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 cd /fz2y/3yVH
 cd ./d6QDF/KhVuQ
 cd /IPdl
-popd 
-dirs 
-dirs 
-pwd 
+popd
+dirs
+dirs
+pwd
 cd -
-popd 
+popd
 pushd ~/uoNmlPmBeK
-pwd 
+pwd
 cd /N8qZja/M8qQDDjDD/2Rpwu/9zmQ/A0e8xX1NK/o/C8p2RV5PP/j6MCv
-popd 
+popd
 cd /Nllto
-pwd 
-cd 
-popd 
+pwd
+cd
+popd
 cd -
 cd ~
-pwd 
-dirs 
-pwd 
-dirs 
+pwd
+dirs
+pwd
+dirs
 pushd /
-popd 
-pwd 
+popd
+pwd
 cd /dxq5t
-popd 
-dirs 
+popd
+dirs
 pushd -
-pwd 
-dirs 
+pwd
+dirs
 pushd ./vWI
 cd /
-popd 
-popd 
+popd
+popd
 cd /xIJ/kIUYVa1/l1wgm9
 cd /QyfNkR/nAJ3nRs
-popd 
+popd
 cd -
-pwd 
+pwd
 pushd -
-pwd 
+pwd
 cd /IoqvACo4
-popd 
+popd
 pushd -
 cd ~/Afyr2Cc8V9
-popd 
-popd 
+popd
+popd
 cd .
-pwd 
-dirs 
-cd 
+pwd
+dirs
+cd
 pushd ~/x
-popd 
-popd 
-dirs 
-popd 
-pwd 
-pwd 
-pwd 
-dirs 
-pwd 
-pwd 
-dirs 
-dirs 
-pwd 
-dirs 
-pwd 
-dirs 
+popd
+popd
+dirs
+popd
+pwd
+pwd
+pwd
+dirs
+pwd
+pwd
+dirs
+dirs
+pwd
+dirs
+pwd
+dirs
 pushd /3Sx23UVe
 pushd /
 pushd /
-pwd 
-popd 
+pwd
+popd
 pushd ~/fYb1be96by/aR1B/3ALB7/5CCc81gMLa/CROQLbBv/7/1FmE1UNu/9BPd2Dp
-dirs 
-popd 
-pwd 
-popd 
-popd 
-popd 
+dirs
+popd
+pwd
+popd
+popd
+popd
 cd -
-dirs 
-pwd 
-popd 
-popd 
-popd 
-popd 
+dirs
+pwd
+popd
+popd
+popd
+popd
 pushd ~
-pwd 
-popd 
-dirs 
-dirs 
-popd 
+pwd
+popd
+dirs
+dirs
+popd
 pushd /RYzU75hFa4/oopBvxEx/XW/mHDAIlI0bX/UBLXUkU/2YZcNGC
 pushd .
-popd 
-popd 
-popd 
+popd
+popd
+popd
 pushd /bt
 cd /
 cd ./E
-popd 
-pwd 
+popd
+pwd
 pushd /
 pushd /3qq
 cd ~/kQoD1D/11/Lmjyx/Y5bxrHMs
-dirs 
-pwd 
-popd 
-pwd 
+dirs
+pwd
+popd
+pwd
 cd /
 pushd /EdENvPJA/rUtK
-cd 
-popd 
+cd
+popd
 pushd ./6rBBUrSgFw
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
 pushd ~/M/CDlahSDU4
 pushd /kAB7AjI/f5ROUXeA
-popd 
+popd
 pushd ~
-popd 
-popd 
+popd
+popd
 pushd .
-popd 
-popd 
-popd 
+popd
+popd
+popd
 cd -
-dirs 
+dirs
 pushd ~
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 pushd ~
-popd 
+popd
 pushd /y/ML9e5mdlA
-popd 
-popd 
+popd
+popd
 pushd /JZkR/jdwHZ1lt/5/5cui/53P
-pushd 
+pushd
 pushd -
-dirs 
+dirs
 cd -
-popd 
-popd 
+popd
+popd
 pushd -
-dirs 
-popd 
+dirs
+popd
 pushd -
-dirs 
-cd 
-popd 
+dirs
+cd
+popd
 cd /5
 cd ./t7A7GQP/1zga
 pushd ./laNltq5Iw/nR/r/2xB6JdSpZ
-pwd 
+pwd
 pushd -
-popd 
-dirs 
+popd
+dirs
 cd -
 cd /71ZpWIO
-popd 
+popd
 pushd .
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 pushd -
-popd 
-popd 
+popd
+popd
 cd /QdG4YQi/9v4/oPJH/BJ/p8
 cd ~/iyHV2m
-cd 
-pwd 
+cd
+pwd
 pushd -
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 cd ./60g8l2uj
 cd /nm8TWjLz/N9Ks/asAC/DqnZ7wfW/z6Rpt/rV0992/ZXJ5Nu
-pwd 
-pwd 
+pwd
+pwd
 cd -
-dirs 
+dirs
 pushd .
-dirs 
-dirs 
+dirs
+dirs
 cd /Dl0/6iWk5gK6JB/yN9DAMB9u9
-popd 
-popd 
+popd
+popd
 pushd -
-pwd 
+pwd
 cd /A/a2NSrfjTgQ/GG/Cr06DhGyT/yVak/y3WGeCpNt/dgUXF2jzLf
-dirs 
+dirs
 pushd ~/ib2pjw
-pwd 
+pwd
 pushd .
-pwd 
+pwd
 cd -
 pushd ./K
-cd 
-pwd 
+cd
+pwd
 cd /LV9oeMyhNc
-pwd 
-popd 
-popd 
-dirs 
-popd 
+pwd
+popd
+popd
+dirs
+popd
 pushd ~/QHou/gaYF11/9OJMKTC
-popd 
-pwd 
-pwd 
+popd
+pwd
+pwd
 cd .
 cd .
-popd 
-dirs 
-pushd 
-dirs 
-dirs 
+popd
+dirs
+pushd
+dirs
+dirs
 pushd ./d/eJmFg/pqW1VpGmJ/ufyZ/QZCuS1d3xT/fjV/NVUlFdiOFY/0g/KC4K3ELa35
 cd ./yHxb/4
 pushd ~/WFv/ududytA44
-popd 
+popd
 cd /sVEZ7LIYOw/yNt82s/8/5dnIsA0/Nk/mJMBBy/XiVIkLaBTT/89C
 pushd /bckCfKV4/QYVWB/9h5/PZswdVf
 pushd ~/H/SCKW/Qm6BOcJZ8/48DMMIdRK/kEAaadExA/MFMQC318i/SE/zTfcZ
-popd 
+popd
 cd ~
-popd 
-popd 
+popd
+popd
 pushd ./OvmuScL8/nbs/OM4Dtct
-dirs 
-popd 
+dirs
+popd
 cd ~
 pushd ./BClAyoAGu/UZLfNW
-pwd 
-popd 
+pwd
+popd
 pushd ./b/2us
 pushd /tcoLuhjo
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 cd /xszoP
-dirs 
-dirs 
-popd 
-popd 
-popd 
+dirs
+dirs
+popd
+popd
+popd
 pushd -
-popd 
+popd
 pushd ./5/B3BIH/2/q
-dirs 
+dirs
 pushd ~
 cd ~/rpY5h3R/HQ/6H68A/7/6Yl/GXmpT/z1aJPOegv/z/uklm6
-pwd 
+pwd
 pushd -
 cd .
 pushd ~/Q/GkVVBThJ1/inurgztt
 pushd ~
 pushd ./NYPpOVnM
-popd 
+popd
 cd -
 cd /447ptP/uq9G9dm/I2ZT
-popd 
-pwd 
-pwd 
-dirs 
-pwd 
+popd
+pwd
+pwd
+dirs
+pwd
 pushd ~
-popd 
-dirs 
+popd
+dirs
 pushd ~
 pushd -
-dirs 
-popd 
+dirs
+popd
 pushd /
 pushd -
-pwd 
+pwd
 pushd ./yk3Lq
-dirs 
-popd 
+dirs
+popd
 cd ~/pDU7Idi0p/24Gf/xgybv/4ZN93N6C0
 pushd /jKI74zub/xcwHLdHubq
-dirs 
-pwd 
+dirs
+pwd
 pushd ./IcEqUuVaij/wFym/cT7xN8uA
 pushd -
-popd 
-popd 
-popd 
-pwd 
+popd
+popd
+popd
+pwd
 pushd ~/UD1gGei
-popd 
-pwd 
-pwd 
+popd
+pwd
+pwd
 cd .
-cd 
+cd
 cd /eQYc4xnNN
 pushd -
-popd 
-pwd 
-dirs 
-popd 
+popd
+pwd
+dirs
+popd
 cd /WDLu/2fJb
-dirs 
-pwd 
-pushd 
+dirs
+pwd
+pushd
 cd ~/lp/q/SmH0TdyR1/IOO0/UkGZ/p3UXUvx/WnYPhZXq4Y
-pwd 
+pwd
 pushd /n/UZD1ZgZFo/nvk3I8gbMn
-dirs 
-popd 
+dirs
+popd
 pushd .
-popd 
-cd 
+popd
+cd
 cd ~
 cd -
 pushd ~/n
 cd -
-pwd 
-pwd 
-popd 
+pwd
+pwd
+popd
 pushd /9/g5c
 pushd /wfqZ/RryZ1G/Ko1RrdPF1
-dirs 
-dirs 
-pwd 
-pwd 
+dirs
+dirs
+pwd
+pwd
 pushd .
 pushd ./jfYbkHL/BAAV3PSn/cm7/0FYTo/XK3nTY/sq2mbvJuA/Q3EdMqr
-popd 
+popd
 pushd ~
 cd ./lbfx
 cd /d1U5qY6
-popd 
-dirs 
-pwd 
+popd
+dirs
+pwd
 pushd ~/RsP/yF79tzJLj0/wSA
-pwd 
-dirs 
-pwd 
-popd 
+pwd
+dirs
+pwd
+popd
 pushd /dwaRU75O
-dirs 
-popd 
+dirs
+popd
 pushd /AfAfiDEy
-cd 
+cd
 cd ~
-pwd 
-popd 
-popd 
-pushd 
-dirs 
-dirs 
-popd 
-pwd 
+pwd
+popd
+popd
+pushd
+dirs
+dirs
+popd
+pwd
 pushd ~
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 pushd ~/VEjjjz8K9/jyy/JOJmAzMeo/JEoc/c9zugWJ5Q1
-pwd 
-popd 
-dirs 
-popd 
-popd 
+pwd
+popd
+dirs
+popd
+popd
 pushd ~/Z33A9/6O5RcuLOdh/VxjGL
 cd /
-popd 
-pwd 
-dirs 
-dirs 
+popd
+pwd
+dirs
+dirs
 pushd -
 pushd ./dsdVHBD/WcIFkLTlaU
-popd 
+popd
 cd ~
 pushd .
 pushd .
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 cd /
-dirs 
-dirs 
+dirs
+dirs
 cd -
 cd -
-dirs 
-popd 
-popd 
-pwd 
+dirs
+popd
+popd
+pwd
 cd ~/3YBhsiD4f/omCl/ybu123eC5/CnR6Bcz/XDjjY/KWEy/Wg/yjaLBr55mW/r
 cd .
-pwd 
-pwd 
+pwd
+pwd
 pushd ~/PnAH6KP8r/HXaEi/Olpq7K6
-pushd 
+pushd
 cd ~
 cd ./Li86ax7/149Wa7NB/33/e6GY4nLr/HjQrBDN
-dirs 
-dirs 
-dirs 
-popd 
-dirs 
-pwd 
-popd 
-popd 
-popd 
-dirs 
+dirs
+dirs
+dirs
+popd
+dirs
+pwd
+popd
+popd
+popd
+dirs
 pushd ~/i/srv/6Yva/Y/XdqI4/2VouCWZ1F6/vE/jZl75pCPnh
-pwd 
-pwd 
-dirs 
-dirs 
+pwd
+pwd
+dirs
+dirs
 cd ~/2hRuu4/r5d
-dirs 
-cd 
+dirs
+cd
 pushd -
-popd 
+popd
 cd -
-dirs 
-dirs 
-popd 
-dirs 
+dirs
+dirs
+popd
+dirs
 cd /S
 pushd /
-popd 
-popd 
-popd 
-popd 
-pwd 
-pushd 
-pwd 
+popd
+popd
+popd
+popd
+pwd
+pushd
+pwd
 cd ~/WHd5Ytt/5fTM3l4/GP5AgaexT
 cd -
-popd 
-dirs 
+popd
+dirs
 pushd /
-pwd 
-pwd 
-popd 
-pwd 
-dirs 
+pwd
+pwd
+popd
+pwd
+dirs
 cd ~/ZGR
-pwd 
+pwd
 cd /aXg/z/SHPC4HSLG/srbYjr2drv
-popd 
+popd
 pushd /mXs/Dl/OvIHN/iPJ/Hoyflh/fIWHUQ1wIa/KMOnJ8u
 pushd /u3Gfq/ysvuNqFFq9
 cd -
-dirs 
-pwd 
-pwd 
+dirs
+pwd
+pwd
 cd -
-popd 
+popd
 pushd ~/t59WwYY
 pushd /
-dirs 
+dirs
 cd ./a/3Nf3HmVfM6
 cd -
-dirs 
-dirs 
-popd 
-popd 
-popd 
-pwd 
+dirs
+dirs
+popd
+popd
+popd
+pwd
 pushd -
 pushd .
-dirs 
+dirs
 pushd ./oYm/ChoMCvBH/Pt
-popd 
+popd
 cd /0Uyd
-popd 
-pwd 
-dirs 
-popd 
+popd
+pwd
+dirs
+popd
 pushd ~/ejyl5EcOe/OCf/ZC
-dirs 
+dirs
 pushd .
 cd -
-pwd 
-pwd 
+pwd
+pwd
 pushd ./Tl/Kt3w
 pushd ./VNoRo0gggK
-dirs 
+dirs
 pushd /taA3gb3sF0/KMvC
 cd .
 cd /
@@ -614,31 +614,31 @@ cd ./NtQDti/vgsY
 pushd /LgkgLeBJiq
 cd /KuPOo
 pushd ./tnd/KmY5eO/77nav
-dirs 
-dirs 
-popd 
+dirs
+dirs
+popd
 pushd -
-pwd 
-popd 
-dirs 
-cd 
-dirs 
-popd 
-pushd 
+pwd
+popd
+dirs
+cd
+dirs
+popd
+pushd
 pushd /CzaUjIol
-popd 
-dirs 
-popd 
-pwd 
+popd
+dirs
+popd
+pwd
 cd -
-dirs 
+dirs
 cd /8Xj5CCMfJ/c2j/RgEk
-dirs 
-dirs 
+dirs
+dirs
 pushd ./NSZrr
-pwd 
-pwd 
-popd 
+pwd
+pwd
+popd
 pushd ~/ez5hZ/sgLjHpC/yu7/LfyFThKB/NWd4hop5aY
 pushd ~/4B3
 cd /cB6puMCB/M5EYXYzOe/HLAdz9HIi/auUu/p
@@ -646,861 +646,861 @@ pushd /0/gv7VwDcYy/3ao2qAdL0J
 cd ./5jdCHFOn/DmJU/sblq/Ud/GnAvk3dVqv
 cd /L4XCnr/36rOBT
 cd ~/gk
-popd 
-pwd 
+popd
+pwd
 pushd ~/qsF/JkqJCn18/Tcwln7/Vu
-pwd 
-dirs 
-pwd 
-dirs 
+pwd
+dirs
+pwd
+dirs
 pushd .
-pwd 
-cd 
+pwd
+cd
 cd ~
-pwd 
+pwd
 cd /Suj59hXoo
-dirs 
-popd 
-dirs 
+dirs
+popd
+dirs
 pushd /DEIw8Gruo/m1FBE/RYcjw
-dirs 
-popd 
-popd 
-pwd 
+dirs
+popd
+popd
+pwd
 pushd /QkptK5/BmYBhck/oc/VPW2MGF/tWJPoK3/07/0/4SnI/OrEFuc6
-popd 
+popd
 pushd /RG
-pwd 
-pwd 
+pwd
+pwd
 pushd ./waOiV9IXa
 pushd /
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 cd -
-dirs 
+dirs
 pushd ~
-popd 
-dirs 
-dirs 
-pwd 
+popd
+dirs
+dirs
+pwd
 cd /KxAMhLd6LM/qNl2R/Bb/2Ky/Nu1/WI4Nb
 pushd ~
 pushd -
-pwd 
-pwd 
-dirs 
+pwd
+pwd
+dirs
 cd /FDFJ/K/mRn7yyVGNH/5gJ63w5/8nFBM/2GFuj/TkQpVFOm
 cd ./L/A08P/Xj9Z/oIiPjg/MiVPWzk9gr/cEIQPIWke6/3dytgym/0MBm
 pushd -
-pwd 
-dirs 
-cd 
-dirs 
-dirs 
-dirs 
-dirs 
-pwd 
-pwd 
-pwd 
-popd 
-popd 
-dirs 
-pwd 
-pwd 
-popd 
+pwd
+dirs
+cd
+dirs
+dirs
+dirs
+dirs
+pwd
+pwd
+pwd
+popd
+popd
+dirs
+pwd
+pwd
+popd
 cd .
 pushd -
-pwd 
-pwd 
-pwd 
-dirs 
-dirs 
+pwd
+pwd
+pwd
+dirs
+dirs
 cd ~/Q
-popd 
-popd 
+popd
+popd
 pushd ~/FQ/FkbO1/Plwyqb7/EAyCYfB/wRq4f3/1wzBIFf7O/m
-popd 
-dirs 
-pwd 
-pwd 
+popd
+dirs
+pwd
+pwd
 cd /
-popd 
+popd
 pushd /
-dirs 
+dirs
 pushd ~
-popd 
+popd
 cd /8uO
 cd ~
 cd -
 cd /zx/rukZocJVjy
-dirs 
-pwd 
+dirs
+pwd
 cd /KEZUIidUbE/DNEN
 pushd -
 pushd .
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
 pushd ~/zVufyceQg/sh1r2/0Hpi/H1lN
-popd 
-popd 
+popd
+popd
 pushd -
 pushd /jI3i
 cd -
 pushd .
 cd .
-pwd 
+pwd
 cd .
 pushd /
 cd ~
 cd /
-dirs 
+dirs
 cd .
-pushd 
-popd 
-dirs 
-popd 
-pwd 
+pushd
+popd
+dirs
+popd
+pwd
 cd /mN
 pushd -
-dirs 
-popd 
-popd 
-popd 
-pwd 
-dirs 
-popd 
-popd 
-pwd 
+dirs
+popd
+popd
+popd
+pwd
+dirs
+popd
+popd
+pwd
 cd ~/8
-popd 
+popd
 pushd /
-cd 
+cd
 pushd /EWt9bIa/ndAZYj/HSP7HGV/FgvYAJ/4mf2dRw
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 cd /aWp7QA6olO/BONB
-dirs 
+dirs
 cd /xiW6/Y8HVKlV7/mAq5/kI73Z88JFN
 pushd ~
 cd -
-popd 
-dirs 
+popd
+dirs
 cd /l0Zzt2JUX/QR/FxbJBT2
 pushd -
 cd /
 pushd ./YuP
-pwd 
+pwd
 cd /JSKeBS/TH3gGy79/zuyvi/qG0uQCOPZ/FL6p6C/kesV9Z/sPqPp
-dirs 
+dirs
 cd /
-pwd 
-popd 
-pwd 
+pwd
+popd
+pwd
 cd /h4/AvVp6Kac/awDq/5NOkq
-dirs 
+dirs
 pushd ./pa/jqxtEyOM/OH9
-pwd 
+pwd
 cd ./bY9eo/b/6375u2
-pwd 
-popd 
+pwd
+popd
 cd /
-pwd 
-popd 
-dirs 
-dirs 
+pwd
+popd
+dirs
+dirs
 cd ./8Ia/gtU
-pwd 
+pwd
 pushd ~/eY2U/OoSXECUTHt/mub0pDsMF/VUNcYwUY
-popd 
-dirs 
-popd 
-pwd 
+popd
+dirs
+popd
+pwd
 pushd ./KrdJ2MwG
 pushd .
-cd 
-pwd 
+cd
+pwd
 cd ./P5G/R/L1epKvwa
-dirs 
+dirs
 pushd ~
 pushd /Scs1EFAlev/rOaCOG/qSZO6x/4CueTr5sTv/GC
-popd 
-dirs 
-dirs 
-popd 
-pwd 
-pwd 
-pwd 
-dirs 
-popd 
+popd
+dirs
+dirs
+popd
+pwd
+pwd
+pwd
+dirs
+popd
 cd ~/T1fFrBQjC
 cd /Z/uxO
-popd 
-dirs 
-cd 
+popd
+dirs
+cd
 cd .
 cd -
-pwd 
-pwd 
-popd 
-popd 
-dirs 
-dirs 
-pwd 
-dirs 
+pwd
+pwd
+popd
+popd
+dirs
+dirs
+pwd
+dirs
 pushd /0hIADPB
-pwd 
-popd 
-popd 
-popd 
+pwd
+popd
+popd
+popd
 pushd ~
-popd 
-popd 
-dirs 
-popd 
+popd
+popd
+dirs
+popd
 cd /
 cd .
-popd 
-pwd 
-dirs 
-popd 
+popd
+pwd
+dirs
+popd
 pushd /V8
 cd -
 pushd ./dWR88/pu/1KSbp/3w5Xuv5R
 pushd -
 cd /bag/VY/seMUqB4/7w/lfik/G5
-popd 
-dirs 
-pwd 
-dirs 
-dirs 
+popd
+dirs
+pwd
+dirs
+dirs
 pushd -
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
 pushd ./RrAj/7NOWQSEZ
 cd /
-dirs 
-pwd 
-pwd 
+dirs
+pwd
+pwd
 cd /ZZTWz3arD/dUze/JX/lyzV43Py/9gBb/DxbV4zy92m
-popd 
-pwd 
-dirs 
-dirs 
-pwd 
+popd
+pwd
+dirs
+dirs
+pwd
 pushd /EDRe
-pwd 
+pwd
 pushd -
 pushd ~/gh7
-pwd 
+pwd
 cd -
-popd 
-pwd 
+popd
+pwd
 cd ~/7dl/H5ypRr/i/DkFQ
 cd /GDAAvAn/cSK4h/y9qDqvkIDm
 pushd -
-dirs 
-dirs 
+dirs
+dirs
 cd /VuwsQr/yKHUa/H/II6s6XPI
 cd /mvVMyC/2MG/92i2ikd5C
-popd 
-pwd 
-popd 
-pwd 
-dirs 
+popd
+pwd
+popd
+pwd
+dirs
 cd -
-pwd 
-popd 
-popd 
-dirs 
-pwd 
-popd 
+pwd
+popd
+popd
+dirs
+pwd
+popd
 pushd /u1Rlk/dE
-pwd 
-dirs 
-pwd 
+pwd
+dirs
+pwd
 pushd ~/rLG
 cd /
-dirs 
-pushd 
-popd 
+dirs
+pushd
+popd
 cd ./lGw1hSW8xU/ZeZvc/T8xGc/FoiB/zCGh2lw2ic/hfY45g
 pushd -
-dirs 
+dirs
 cd -
-pwd 
+pwd
 cd ~
 pushd /JDPdhn2jY/6/qCVM/o115Czu
-popd 
-dirs 
-cd 
+popd
+dirs
+cd
 cd .
 cd ~
-dirs 
-popd 
-pwd 
-dirs 
+dirs
+popd
+pwd
+dirs
 cd /iE4ngvv3
-popd 
+popd
 pushd .
-pwd 
-popd 
+pwd
+popd
 pushd /5v8A9Tvd9S/ZFotYn
 cd /
-dirs 
-pwd 
-popd 
+dirs
+pwd
+popd
 pushd /cN8/RcUMBK/w3XU/6NXO/TcTfVe/g
-popd 
-popd 
-pwd 
-popd 
+popd
+popd
+pwd
+popd
 pushd ~
 pushd /NY8
-popd 
+popd
 pushd /AT/xyts5u/10PVhAlybB/7vLQ/43NLqDP
 cd -
-dirs 
+dirs
 pushd ~/Idpp917l/HEM9w
-pushd 
-dirs 
-popd 
-pushd 
-dirs 
-pwd 
-pwd 
-popd 
+pushd
+dirs
+popd
+pushd
+dirs
+pwd
+pwd
+popd
 cd /VH4GLZZ
 cd /
-pwd 
-popd 
+pwd
+popd
 pushd -
-dirs 
-pwd 
-dirs 
-pwd 
-dirs 
-pwd 
+dirs
+pwd
+dirs
+pwd
+dirs
+pwd
 pushd -
-pwd 
+pwd
 pushd /3mTrhklR
-pwd 
-dirs 
-dirs 
-pwd 
-pwd 
+pwd
+dirs
+dirs
+pwd
+pwd
 pushd ~/Up
-dirs 
+dirs
 cd ~
-dirs 
+dirs
 cd ~/L
 cd ~/Y/52YE
 pushd ./kVKZP
-popd 
-popd 
+popd
+popd
 cd -
-dirs 
-dirs 
+dirs
+dirs
 pushd .
-dirs 
-pwd 
-dirs 
-dirs 
-popd 
+dirs
+pwd
+dirs
+dirs
+popd
 cd ~/yoFesW
 pushd -
 cd ./cgrAKRpZkr
-dirs 
-dirs 
-pwd 
-popd 
+dirs
+dirs
+pwd
+popd
 pushd /
 pushd ./ACi/QQOSa
-pwd 
+pwd
 pushd /voxsI3o
 pushd ~/8p3fkTjxxB/KcFU/hHc/lzVxP/5xW/iWCRHF/oT/GFK1jPI/U0nFdKAd
-popd 
-popd 
-popd 
-pwd 
+popd
+popd
+popd
+pwd
 cd -
 pushd ./5pEg4Jq/U5rC/1xbyx1B
-dirs 
+dirs
 pushd /1j/QjHoWP3inr
-pwd 
-popd 
-pwd 
-pwd 
-pwd 
+pwd
+popd
+pwd
+pwd
+pwd
 cd -
-pwd 
-dirs 
+pwd
+dirs
 cd ./gQNidO/5DQ/Fy/NRHK
 cd /rCF/JJNAH8/jnx9vu/Gas
-pwd 
-pwd 
-pwd 
-dirs 
-popd 
-popd 
+pwd
+pwd
+pwd
+dirs
+popd
+popd
 pushd .
-pwd 
-dirs 
+pwd
+dirs
 cd /8ybpC3
 cd -
-popd 
+popd
 cd -
-dirs 
-popd 
+dirs
+popd
 cd /bwZG
 cd /
 pushd /ubppnu
-popd 
-popd 
+popd
+popd
 cd /oz/xAe4/IWVrOWSxN/E/93n/eS
 pushd .
-pwd 
+pwd
 pushd ~
-pwd 
-dirs 
-dirs 
-dirs 
+pwd
+dirs
+dirs
+dirs
 pushd /AhUOA82H71/Mt
 cd /
-dirs 
-pwd 
-cd 
-popd 
-dirs 
-pushd 
+dirs
+pwd
+cd
+popd
+dirs
+pushd
 pushd /SDO4uzL/PFf/qRINoto/D
-popd 
-popd 
+popd
+popd
 cd -
-pwd 
-popd 
+pwd
+popd
 cd .
 pushd /z8
-dirs 
-pwd 
-dirs 
-popd 
-popd 
+dirs
+pwd
+dirs
+popd
+popd
 cd /deb51vlE/FMM/taHeZE/K/oo8HqzbpHM
-pwd 
+pwd
 cd -
-pwd 
+pwd
 pushd ~
 cd -
-popd 
+popd
 pushd /kkHGi
 cd /B0zn/bDeWf
 cd -
-dirs 
+dirs
 pushd ~/5Y/mBI
-pwd 
-popd 
-dirs 
-pwd 
+pwd
+popd
+dirs
+pwd
 cd /
 cd ~/Ab/i2FK8kE/ybFTv2d/bpE/neZAcnrF8/B8YOB
 pushd ~/1p8M9/4tYkRC5m/9Ih
-pwd 
+pwd
 cd -
-popd 
+popd
 cd /tQ6gq
-dirs 
-dirs 
-popd 
-pwd 
+dirs
+dirs
+popd
+pwd
 cd ~/0Tn
-pwd 
-pwd 
-pushd 
-pwd 
-pwd 
+pwd
+pwd
+pushd
+pwd
+pwd
 cd /BL9
-dirs 
-pwd 
-pwd 
+dirs
+pwd
+pwd
 pushd /
-pwd 
+pwd
 pushd /eL
 cd ~
 pushd /
-pwd 
-pwd 
+pwd
+pwd
 cd -
-dirs 
+dirs
 cd -
 cd ./aNS
 cd ./ed9svt
-popd 
+popd
 cd ~
-dirs 
-popd 
-dirs 
-popd 
-pwd 
-pwd 
-pwd 
-popd 
+dirs
+popd
+dirs
+popd
+pwd
+pwd
+pwd
+popd
 cd /
-pushd 
+pushd
 pushd .
 cd ./eZ/Nv
-cd 
+cd
 cd ~/H1ge9bVypG
-dirs 
+dirs
 pushd .
-pwd 
-pwd 
-popd 
+pwd
+pwd
+popd
 pushd ./znNv1P
-popd 
+popd
 cd ~
 cd ~/ouq5pgY/0p5KNhuTi/6H7d
-pwd 
+pwd
 cd ~/1UG/L1/6JI58/X0nr5I
-pwd 
+pwd
 pushd /jev/IEhzHme1/JixBhNe9a/gWcyeZ/kh/23E2uvy
 cd /gA3rbqT/3KddCP
-dirs 
-popd 
-pwd 
-pwd 
-popd 
-dirs 
+dirs
+popd
+pwd
+pwd
+popd
+dirs
 pushd ~
-pwd 
+pwd
 cd ~/tU
 cd /pk28HoncV3
-pwd 
+pwd
 cd ~
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
 cd ./3KJ/YW/13gmtWfFa/kA/SRBpkvD3a
-popd 
+popd
 pushd /
-pwd 
+pwd
 cd /
-popd 
-dirs 
-popd 
-pwd 
-popd 
-dirs 
-pwd 
-popd 
-pwd 
+popd
+dirs
+popd
+pwd
+popd
+dirs
+pwd
+popd
+pwd
 pushd ~
-pwd 
-pushd 
-dirs 
+pwd
+pushd
+dirs
 pushd /eRS/ViD6qDaGLs
-popd 
-pwd 
-pwd 
+popd
+pwd
+pwd
 cd ~
 cd -
-dirs 
-pwd 
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
+pwd
+dirs
 cd -
-pwd 
-cd 
-popd 
+pwd
+cd
+popd
 cd /pUSRgH/KXQ3YnMoc/n7JpLowRa/lLy5QpGv8
 cd /
 cd /
 pushd /o7fxwkela
-pwd 
+pwd
 pushd /
 pushd /1c/v9SW
 pushd -
 pushd -
 cd -
-dirs 
+dirs
 cd ./mZha/cj7SZZY
-pwd 
-pwd 
-dirs 
-pwd 
-pwd 
-pwd 
-dirs 
-pwd 
+pwd
+pwd
+dirs
+pwd
+pwd
+pwd
+dirs
+pwd
 pushd .
-dirs 
+dirs
 cd ~/LMlRsz7pR/xqKd7m/ASOPNfF
-pwd 
-pwd 
+pwd
+pwd
 pushd .
 pushd -
-cd 
-dirs 
-pwd 
+cd
+dirs
+pwd
 pushd /2nzi4veVk/KxfB/KT/eLqqsY4a6
-popd 
-dirs 
-pwd 
+popd
+dirs
+pwd
 pushd ~
-dirs 
-popd 
-pwd 
-cd 
-cd 
+dirs
+popd
+pwd
+cd
+cd
 pushd -
-dirs 
-pwd 
-popd 
-cd 
+dirs
+pwd
+popd
+cd
 cd /ZP0iAxX
 pushd /
-pwd 
-dirs 
-pwd 
-popd 
-pwd 
-popd 
-pwd 
+pwd
+dirs
+pwd
+popd
+pwd
+popd
+pwd
 cd ~/Z5j4wE
-pwd 
-pwd 
-popd 
+pwd
+pwd
+popd
 cd /2
-cd 
-dirs 
-pwd 
+cd
+dirs
+pwd
 pushd ./jTW0tJG
 pushd -
-popd 
-dirs 
+popd
+dirs
 pushd -
 cd -
-popd 
+popd
 cd ~/U9jJR/4iIHRGpU6M/B/Ugb/QZvvPROm9G/z/k/Sk9rK0LsO
 cd ./h
 cd /8dm/PLBV
-pwd 
-pwd 
-dirs 
-pushd 
+pwd
+pwd
+dirs
+pushd
 cd ./bG7luWQ
 pushd .
-popd 
-dirs 
+popd
+dirs
 pushd /Of6/3
-popd 
-popd 
+popd
+popd
 cd .
-popd 
-dirs 
-popd 
-pwd 
-pwd 
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
+pwd
+pwd
+popd
+dirs
+popd
 pushd -
 pushd ./alIGMv
-dirs 
+dirs
 cd ~/mVYV
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+dirs
 pushd /FIQn7BgBT/qi/ea0
-dirs 
+dirs
 pushd -
-popd 
-popd 
+popd
+popd
 cd ~/VP/i60/09/9xy03BhKvT/qDs
 pushd ~
-dirs 
-pwd 
+dirs
+pwd
 cd ~
-pwd 
-pwd 
+pwd
+pwd
 pushd /6DYwBtrBs
-pushd 
-popd 
-popd 
-popd 
+pushd
+popd
+popd
+popd
 cd /Bolr/0mZsfR0Npf
-dirs 
+dirs
 cd ./lnNCDP/Erkjop/DCR/yrL5vMg/oBm4P7s2b
 pushd /MUnpP7AQI
-popd 
+popd
 cd .
 cd -
-popd 
-pwd 
-popd 
-popd 
-dirs 
+popd
+pwd
+popd
+popd
+dirs
 cd ~/ku9XG2kexb/U1PApWIa
-pwd 
-popd 
+pwd
+popd
 cd /a/Lmf7GIym/Pbj3LXQQ3/0ehM/MKOO/sKfTGbspwx
 pushd ./nIZIQp1/Yt1X6zL
-pwd 
+pwd
 pushd -
-pwd 
-dirs 
+pwd
+dirs
 pushd /6Ny78
-popd 
+popd
 cd ~/6C/vEGLD
-pwd 
+pwd
 pushd -
-dirs 
-pwd 
-pwd 
-dirs 
-dirs 
-popd 
-popd 
-popd 
-pwd 
-popd 
+dirs
+pwd
+pwd
+dirs
+dirs
+popd
+popd
+popd
+pwd
+popd
 cd /
-dirs 
+dirs
 pushd ./8ZDlt
-dirs 
-dirs 
-popd 
-pwd 
+dirs
+dirs
+popd
+pwd
 pushd -
 pushd .
-popd 
-popd 
-popd 
+popd
+popd
+popd
 pushd .
-popd 
-pwd 
-dirs 
-dirs 
+popd
+pwd
+dirs
+dirs
 cd ~/mYAeMcM
 pushd ./Oobi/aK/r68B4yu5F/RStMhyv/MIj7/AhHleKXcqO/wI7
 cd ~/lm1q1/wYgEdoY/tU5jIlYVzh/r/cuj
-dirs 
-pwd 
+dirs
+pwd
 cd /8zrg/U/B/wqDYD/8WJQy/x0D28Od/Q/us8F6
 pushd -
-dirs 
+dirs
 pushd .
 pushd /RFVCgTw/VKlFAS63Y/XR8/0Kwql/Vkf9HrxuF/uvj
-popd 
-pwd 
-pwd 
-dirs 
-popd 
-popd 
-pwd 
+popd
+pwd
+pwd
+dirs
+popd
+popd
+pwd
 cd /Tjxv5vU
-dirs 
-pwd 
+dirs
+pwd
 cd ~/L
 cd /
 pushd /
-pwd 
-popd 
-pwd 
+pwd
+popd
+pwd
 cd /
-pwd 
+pwd
 pushd /WJst/yDYy
-pwd 
-pushd 
-popd 
-popd 
+pwd
+pushd
+popd
+popd
 pushd -
-popd 
-popd 
-popd 
-popd 
-dirs 
-dirs 
-pwd 
-popd 
+popd
+popd
+popd
+popd
+dirs
+dirs
+pwd
+popd
 pushd /35RyzL/dzQHw5frp
 pushd /7wah16
-popd 
-dirs 
-popd 
-popd 
+popd
+dirs
+popd
+popd
 pushd -
-pwd 
+pwd
 cd ~
 cd -
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
 pushd -
-pwd 
-dirs 
+pwd
+dirs
 cd /nWm/ahQ/ixfG
-pwd 
-pwd 
-pwd 
-dirs 
-pushd 
-pwd 
-dirs 
+pwd
+pwd
+pwd
+dirs
+pushd
+pwd
+dirs
 cd ./P4PsGw0jv/JTT/j7pmKr/2v9KJj3AH
 pushd /
-pushd 
-dirs 
+pushd
+dirs
 pushd ~/l1haqBU/ffF9iyAFb/MiHo/Ho
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 pushd .
 pushd ./hriptHNR/EbQ
-dirs 
+dirs
 cd /LOhFv0WcvP
-popd 
-popd 
+popd
+popd
 cd .
 pushd -
 pushd ./5b0/EttU4zvvT/VzaOALEi/a7G3dl/swWRGU8amd/4nA4/zVYY4BvS5
-dirs 
-pwd 
-pushd 
+dirs
+pwd
+pushd
 cd /Vl/hTGaNKZN
-popd 
-dirs 
-popd 
-popd 
-pwd 
+popd
+dirs
+popd
+popd
+pwd
 cd /
-dirs 
-popd 
+dirs
+popd
 pushd /3wX0bv/cu/ehPzlxXG
 cd -
 pushd ~/emQbnp3oIk/X3pjhbJkb/MlGzKe2Rm
-pwd 
+pwd
 cd /J2
-pwd 
+pwd
 pushd ~/F41WteV/zbbaC/4x7
-dirs 
+dirs
 pushd -
-dirs 
+dirs
 cd /IzH1JSuz/4v5m/ogs/x
 pushd ./t41
-pwd 
+pwd
 cd /J/LUG/6df/9i/Cyb/emaT/5IWk9g3/ZSXCT/n
-pwd 
+pwd
 cd ~/YK/UwW/w
 cd /38zY
 pushd /6gSNO/1YkOdp/cE3Fr
 pushd ~
 cd .
 cd ~/4GRqArA6On/oPJTUm
-popd 
-pwd 
+popd
+pwd
 cd -

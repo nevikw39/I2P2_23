@@ -1,3147 +1,3147 @@
 pushd /
-dirs 
-dirs 
+dirs
+dirs
 pushd /orB
-dirs 
-dirs 
+dirs
+dirs
 pushd /3GvRxgUA3q/7v9RNseqWX/pGaHvCRQF/W1N5M2U/6SCg/ADBb7Jz0C
 cd /
 cd /
-popd 
+popd
 pushd /fJ9XmPhe2/Bli8/me0RigNdj/Ae/fzE
-popd 
-pwd 
+popd
+pwd
 cd /caI22/9DK
-pushd 
+pushd
 cd /fR/m8Qv7a7BT/CAUve
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 pushd /3FLckom1/E1/z7/xUMYoV307e
-dirs 
+dirs
 pushd /lzWQ/Eyf
 cd /4/PvHl/d1J0M
-pushd 
-pwd 
-dirs 
-popd 
+pushd
+pwd
+dirs
+popd
 pushd /Uo
-popd 
-popd 
-popd 
-dirs 
-pushd 
-popd 
+popd
+popd
+popd
+dirs
+pushd
+popd
 cd /4cCEc6wW/VC4pPpFI/Ao7/Yi1MDHIbAn
-pwd 
-pwd 
-pwd 
-pushd 
+pwd
+pwd
+pwd
+pushd
 cd /zVo
 pushd /AqMSVf/Psd/AS4/mO7B
-pwd 
+pwd
 cd /
-popd 
-pushd 
+popd
+pushd
 pushd /WaEgXm36vd/WnQBPZG/T/UD/BePb
-popd 
+popd
 pushd /
 cd /LJJzn
 pushd /
-dirs 
-pwd 
-pushd 
-popd 
-dirs 
+dirs
+pwd
+pushd
+popd
+dirs
 pushd /9oq3Jse/3Q
 cd /Z
-dirs 
+dirs
 cd /
 cd /NWWUrpF
-popd 
-pwd 
+popd
+pwd
 cd /3v/Q6GpUjMbq
 pushd /tcy9N3WrMR
 pushd /
-pwd 
-pwd 
+pwd
+pwd
 pushd /45F3bSae06/27ye4XKGu/Za32
-popd 
-cd 
-popd 
-pwd 
-dirs 
-dirs 
-dirs 
-pwd 
+popd
+cd
+popd
+pwd
+dirs
+dirs
+dirs
+pwd
 pushd /FsQ7t7Fq/bI3/cHhRdXGsdV/8xg/o
-dirs 
-dirs 
-popd 
-dirs 
-dirs 
-dirs 
-pwd 
-pwd 
+dirs
+dirs
+popd
+dirs
+dirs
+dirs
+pwd
+pwd
 cd /
 cd /VY1
-popd 
+popd
 pushd /JSp16DYfHH/u1QXqbW/AA7
 cd /HVG/utS
-dirs 
+dirs
 cd /tZnfY5P/RsNp50g0/lVQh
 pushd /
-cd 
+cd
 cd /ZDc0iz0y
-pwd 
-pwd 
-pwd 
-popd 
-cd 
-dirs 
-popd 
-pwd 
-popd 
-pwd 
+pwd
+pwd
+pwd
+popd
+cd
+dirs
+popd
+pwd
+popd
+pwd
 cd /
-dirs 
-popd 
+dirs
+popd
 cd /
-pwd 
-popd 
+pwd
+popd
 cd /nlRH4P
 cd /5ajl
-popd 
+popd
 cd /GM9qib
 pushd /
 cd /dILOaIM7g/QLMTIWp
-popd 
-dirs 
-pwd 
-popd 
-dirs 
+popd
+dirs
+pwd
+popd
+dirs
 cd /Jer7vXp/qk6uWs/wgg1
-dirs 
-pwd 
-popd 
-dirs 
+dirs
+pwd
+popd
+dirs
 cd /k8awW1LS
 pushd /FmIF
-pwd 
-dirs 
+pwd
+dirs
 pushd /
-pwd 
-dirs 
+pwd
+dirs
 pushd /
-dirs 
+dirs
 cd /bmBNnM3w/M0KS8Y5Oxk
-popd 
-pwd 
-pushd 
-pwd 
-popd 
+popd
+pwd
+pushd
+pwd
+popd
 cd /KoXjOds
-cd 
-dirs 
+cd
+dirs
 cd /
-cd 
+cd
 cd /tay
-pwd 
-cd 
-pwd 
-pwd 
-pwd 
-dirs 
-pwd 
-popd 
+pwd
+cd
+pwd
+pwd
+pwd
+dirs
+pwd
+popd
 pushd /uG83ydrXIT/S
-popd 
+popd
 pushd /B9t/ll1yvms
-pushd 
-dirs 
-dirs 
+pushd
+dirs
+dirs
 cd /PFdkycgJ
-pwd 
-popd 
-pwd 
-pwd 
-pushd 
-pwd 
+pwd
+popd
+pwd
+pwd
+pushd
+pwd
 cd /
-pwd 
+pwd
 pushd /Yj/pOjwG6mK/qRz6Vi/cv
 cd /lDY
-popd 
-dirs 
-popd 
-popd 
-pushd 
-pwd 
+popd
+dirs
+popd
+popd
+pushd
+pwd
 pushd /FoxtK1
-cd 
-pwd 
-cd 
-pwd 
-dirs 
+cd
+pwd
+cd
+pwd
+dirs
 pushd /0JG1j
 cd /GOXB1Mk/y0MLw09
-popd 
-pwd 
-dirs 
-pwd 
-pwd 
+popd
+pwd
+dirs
+pwd
+pwd
 cd /qi
 pushd /ic3TW5
-popd 
-dirs 
+popd
+dirs
 cd /0PvNWkJk9J
-popd 
-dirs 
-pwd 
-dirs 
-popd 
-dirs 
+popd
+dirs
+pwd
+dirs
+popd
+dirs
 pushd /g0y
-pwd 
-pushd 
-popd 
+pwd
+pushd
+popd
 pushd /VIbsnNec8J/d7c3NIXYE/V
-popd 
-cd 
+popd
+cd
 pushd /g
 cd /nWrCGxUy/KIfbmFPN
-pwd 
-pwd 
-popd 
+pwd
+pwd
+popd
 pushd /
-pwd 
+pwd
 cd /mHL/2
-dirs 
-popd 
-pwd 
+dirs
+popd
+pwd
 pushd /Og
-cd 
-dirs 
-popd 
+cd
+dirs
+popd
 cd /VO74xPmnz
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
 cd /pdsizS/pUnfrn/vF0rPERu/xrbfk/jFxswVLO/LYj9Id5PKr/TRQY0s9k1p/FNyWc3KlgX
 cd /AYPh/Toi5wNlPnQ
-popd 
+popd
 cd /U091Nvqnvc/gbBj
-dirs 
-dirs 
-popd 
-popd 
-pwd 
+dirs
+dirs
+popd
+popd
+pwd
 pushd /H
-pwd 
-popd 
+pwd
+popd
 cd /Szax5T
-popd 
-pwd 
+popd
+pwd
 cd /7ItC
-dirs 
+dirs
 pushd /Fy45e5PMi/QibOlb6r/CTI4Fk6vq/Lto/Q/VnBDU8/cPJl1bApe/HkMCybGK
-popd 
-pwd 
+popd
+pwd
 cd /yu
-pwd 
+pwd
 cd /PtA7
 pushd /4SHy96Jk
 pushd /RaIZfA/eagNlo/phL
 pushd /
-cd 
-popd 
+cd
+popd
 cd /
-dirs 
-popd 
-pushd 
+dirs
+popd
+pushd
 pushd /JbNyQyUk
-popd 
-dirs 
+popd
+dirs
 pushd /
 cd /NL/t/6nb79ti/wdefKlBYSY/UHGu0
-dirs 
-pwd 
+dirs
+pwd
 cd /gfI
 cd /T50ROG/2FK/r
 cd /bxFMGUQlQe
-dirs 
+dirs
 pushd /
 cd /zTTxqB1/HNjBVuSi/bfbYWQF5kV
-dirs 
-dirs 
-pwd 
-pushd 
+dirs
+dirs
+pwd
+pushd
 cd /J80/n/dKet/BK/XIl94Tn9e
-dirs 
-pwd 
-pwd 
-pwd 
-dirs 
-pwd 
-pwd 
-pwd 
-dirs 
-cd 
-pwd 
+dirs
+pwd
+pwd
+pwd
+dirs
+pwd
+pwd
+pwd
+dirs
+cd
+pwd
 cd /pvBQuZLv/vydlR/Nvv6CkphS/H3CKnxB5L/6s
-cd 
-pwd 
+cd
+pwd
 pushd /D1Fpti/ZQOB7PvKkn/U/OFNQVDaNj/MhKkOsYF/9ZoaTBT3NE/LQsp8Jo/coKbSC/um6pnxs
-pwd 
-pwd 
-pushd 
-pwd 
-dirs 
-pwd 
+pwd
+pwd
+pushd
+pwd
+dirs
+pwd
 pushd /
-popd 
-popd 
-pwd 
-cd 
+popd
+popd
+pwd
+cd
 pushd /
-popd 
-pushd 
-pushd 
-dirs 
-pwd 
-dirs 
-popd 
+popd
+pushd
+pushd
+dirs
+pwd
+dirs
+popd
 pushd /U/PX/gcADcD/3UHzplz/jlzxSFuDFK
-popd 
-dirs 
-dirs 
-cd 
-pwd 
-cd 
+popd
+dirs
+dirs
+cd
+pwd
+cd
 pushd /tP6Yc1EztW
 pushd /sp/FewjDZ/4BJZ/Ro8/PXtZXzn/Fdo
-popd 
-pwd 
+popd
+pwd
 cd /3E1a6M9m/kB1L4AzE/zo/XWK6aJI0c
-dirs 
-cd 
-popd 
+dirs
+cd
+popd
 cd /2Efp/My/FTAslNm5j8/Q/Uj/WncKy
-popd 
+popd
 cd /APwB2HPh/9Oc/TVFB
 pushd /MW2DMpT/2xYk6v8U/dJRjFDc
 cd /r/BMFrVF/A0oL4UY8u
-popd 
-dirs 
-pwd 
-pwd 
-pwd 
-pwd 
-dirs 
+popd
+dirs
+pwd
+pwd
+pwd
+pwd
+dirs
 cd /XQ/RKRz/8Q
 cd /DxLLytB6n
 pushd /
 cd /eerJ/mr/Xgn3P2a/rKV/XdTVRU/njy4Gv7WZ2
-popd 
+popd
 cd /b/i6S7n7/29Ulp
 cd /
-pwd 
-pwd 
-popd 
-dirs 
-popd 
+pwd
+pwd
+popd
+dirs
+popd
 cd /
-popd 
+popd
 pushd /xZfHWm/dtfm3Vl0e
-popd 
-pwd 
+popd
+pwd
 pushd /vhe/yUfL
-pwd 
-cd 
-popd 
+pwd
+cd
+popd
 pushd /
-pwd 
-cd 
-popd 
+pwd
+cd
+popd
 cd /Sggj/8/e2L3/RT
-dirs 
-pwd 
-cd 
-dirs 
+dirs
+pwd
+cd
+dirs
 cd /ezkUAp
-popd 
-pwd 
-pwd 
+popd
+pwd
+pwd
 pushd /bh3Gxwd
-popd 
-dirs 
+popd
+dirs
 cd /m2lSv/mOj796s/xMRpUb8EBp/DzO605howz/2JMu
-popd 
-dirs 
-dirs 
-pwd 
+popd
+dirs
+dirs
+pwd
 pushd /CfIdt
-dirs 
+dirs
 cd /C5XL9/8MUatq/Z
-pwd 
+pwd
 cd /
-popd 
-cd 
+popd
+cd
 cd /
 pushd /0RN0hfj/BiyA7sn6n9/XQ/Tiv/trzZ17jwj
-popd 
-pushd 
-dirs 
-pwd 
-popd 
-popd 
-cd 
-pushd 
-pwd 
+popd
+pushd
+dirs
+pwd
+popd
+popd
+cd
+pushd
+pwd
 pushd /
 pushd /WoV
 cd /WC
 pushd /A4gPHdeah/SL9428vJ/RTz/42OAo
-pwd 
-pwd 
+pwd
+pwd
 pushd /bm/F62CQcrRb
-dirs 
+dirs
 cd /
-popd 
-dirs 
+popd
+dirs
 pushd /
 pushd /
-pwd 
-pushd 
-pwd 
+pwd
+pushd
+pwd
 pushd /Ddi21Vo50V
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 cd /PNTjhwMyU/Iseq/JUQxFTwm9q/ry4/Dc2mIqt
-dirs 
-popd 
-pushd 
-cd 
+dirs
+popd
+pushd
+cd
 cd /
-pwd 
-pwd 
+pwd
+pwd
 cd /mw44C
-pwd 
-popd 
+pwd
+popd
 cd /pb/DiDg8rL/KSx/5ZsbMA/J/Hra/FZRmaA/j
 pushd /MUXVflJ7/a
-popd 
+popd
 pushd /C7LSfgw
 pushd /
-popd 
-pwd 
+popd
+pwd
 pushd /yd
-pwd 
-popd 
-popd 
+pwd
+popd
+popd
 pushd /MD8O9/eKx1RQ/Ggb1etwy/bY/5bxuwOE
-popd 
-pwd 
-pushd 
-popd 
+popd
+pwd
+pushd
+popd
 cd /9eD4wme/1kHZcrE/q/hrS/lVhVegZTJq/dTQA/d7uI2D/YGhi
-dirs 
+dirs
 cd /kRiCFBQtL/KNMJzXGQbZ/dfIVeE
-cd 
+cd
 cd /
-dirs 
+dirs
 pushd /5BRnvxDZjt
 pushd /VNRQQM/EVjA
 cd /sfqgr8/B1jzSS/h
-pwd 
-dirs 
-popd 
-pwd 
+pwd
+dirs
+popd
+pwd
 pushd /R0nG
-pwd 
+pwd
 pushd /ydB/xL85
-pwd 
+pwd
 cd /qWi0Dz
-dirs 
-dirs 
-popd 
-pwd 
-pwd 
+dirs
+dirs
+popd
+pwd
+pwd
 pushd /FCPBWLV/yUNSfQb/yQKsumlJd/mD4htFaO2
-pwd 
-pwd 
-dirs 
-popd 
+pwd
+pwd
+dirs
+popd
 pushd /vSlSq61jFZ
-pwd 
-pwd 
-pwd 
-pwd 
-pushd 
-pwd 
+pwd
+pwd
+pwd
+pwd
+pushd
+pwd
 cd /
-popd 
-popd 
-pwd 
-dirs 
+popd
+popd
+pwd
+dirs
 pushd /JyGfsUH
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
 pushd /gTEYWRI9/WpOiyxKFb
-popd 
-pwd 
+popd
+pwd
 cd /rFXCSy5u
-popd 
-dirs 
-popd 
-pushd 
+popd
+dirs
+popd
+pushd
 pushd /fMb6D/T0QANYEtyN/ZdfdhhO
-popd 
+popd
 cd /
 pushd /T345
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 pushd /
 pushd /XEVC/MnyEDv/E/ao8ih44mY/FAKA
-dirs 
+dirs
 cd /dkj3/LPxd8Cn3/LUv08PY/13r7URvg
-dirs 
+dirs
 cd /GNTwOA5Tjk
-dirs 
-cd 
-dirs 
+dirs
+cd
+dirs
 cd /
-pwd 
-dirs 
+pwd
+dirs
 cd /Sc
-dirs 
+dirs
 cd /
 pushd /GGgVJ6/mo4ihmuY8/i9Wop6hqIi/THL0/o
-dirs 
+dirs
 cd /f9zsDKVWx/GmbAfb1v79
-pwd 
+pwd
 pushd /OCDCS8/mRRidg/nByRgJz/gKvLd
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 cd /
-pushd 
+pushd
 pushd /
-cd 
+cd
 pushd /qukrY
-popd 
-popd 
-dirs 
-pushd 
-pwd 
+popd
+popd
+dirs
+pushd
+pwd
 cd /
-pwd 
+pwd
 pushd /uV4yVzNgP/RfOKckTG3/GHAcAnzsIV/GoP/Z/CtmJ/vxbOcxTxA
-dirs 
+dirs
 cd /Jl
-popd 
-popd 
-pwd 
+popd
+popd
+pwd
 pushd /
-dirs 
-dirs 
-popd 
+dirs
+dirs
+popd
 cd /1qEcTUt
 cd /i/d/sEb1D7Fj
-pwd 
+pwd
 pushd /xr/lZ/WaNgWNrLHt
 pushd /O6
 cd /r
-pwd 
+pwd
 pushd /U
-cd 
-popd 
-pwd 
-pushd 
+cd
+popd
+pwd
+pushd
 cd /
 pushd /H1gS/MR/c
-pushd 
-dirs 
-cd 
-popd 
-pwd 
+pushd
+dirs
+cd
+popd
+pwd
 cd /
-pwd 
+pwd
 cd /zbnj6O
-pwd 
-pwd 
+pwd
+pwd
 pushd /txq5g/cRjz1io/hph3PJ/pGdl2hwzr/r0FHFjEBs/FPM9zZmW
-pwd 
-dirs 
-popd 
+pwd
+dirs
+popd
 cd /OI26rb/VQ3vR/tVn/Cs6lf/E3x/G8Hn/xRLgCzAi/Bd7b
-pwd 
-popd 
-dirs 
-pwd 
-popd 
+pwd
+popd
+dirs
+pwd
+popd
 pushd /EBk/hIpq
-dirs 
-popd 
-pwd 
+dirs
+popd
+pwd
 pushd /
 pushd /ndxq
-dirs 
-dirs 
-dirs 
-pwd 
-pushd 
-popd 
+dirs
+dirs
+dirs
+pwd
+pushd
+popd
 pushd /Kdwnub/fc4AF/ih
-pwd 
+pwd
 pushd /feu/mT/6x/Tr5yNqxI/Ow/t9no
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 pushd /Q0V8hx/R77B0LvV
 pushd /2pDnztBF
 pushd /
-popd 
-pwd 
-dirs 
-pushd 
+popd
+pwd
+dirs
+pushd
 cd /DSJWpoc/NKhd
 pushd /qkl4NjO00/1mUfRr8N7/l6p
-dirs 
-cd 
-pwd 
-dirs 
-pwd 
-popd 
+dirs
+cd
+pwd
+dirs
+pwd
+popd
 pushd /l/wB5u6/WHVDd/yX
-pwd 
-popd 
-popd 
-pwd 
+pwd
+popd
+popd
+pwd
 pushd /Syf/RIzv/f
-popd 
+popd
 cd /LEqfO8
-pwd 
+pwd
 cd /ju3Wxcir/AULPyWGfK
 cd /
-popd 
-dirs 
-popd 
-pwd 
+popd
+dirs
+popd
+pwd
 cd /rCX1WF7i6/mP7465jzQ
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 pushd /02hd0F2r
 pushd /gz67JWpO0/TyBsZLkv/9vSk/Bylc/t
-dirs 
-pwd 
+dirs
+pwd
 pushd /NiQ82RR70y
-popd 
-dirs 
+popd
+dirs
 pushd /cMnRsA5
 cd /eSB3jJTJ/t9vo6yk
 pushd /20Sb
-pwd 
-dirs 
-dirs 
-dirs 
-pwd 
-popd 
+pwd
+dirs
+dirs
+dirs
+pwd
+popd
 cd /PHls
 cd /N7t7xI2nz8/xd
 cd /NBHDw
-popd 
+popd
 pushd /
 cd /L2Fb7
 pushd /
-dirs 
+dirs
 pushd /I6Tm
-dirs 
-dirs 
-popd 
-dirs 
-pushd 
+dirs
+dirs
+popd
+dirs
+pushd
 cd /
-dirs 
-popd 
+dirs
+popd
 cd /HArY0XY5Z/LAze
-popd 
+popd
 cd /KAvn5/Ys/pVv/k4oKQsq1f/Uh3RoBpSk/wBCnY
-pwd 
+pwd
 cd /Edcb/63YQSShYH/XBOP/r7eKR
 cd /UdXTL/jdr/U1tdKb33E
-popd 
+popd
 cd /
-dirs 
-popd 
-dirs 
-pushd 
+dirs
+popd
+dirs
+pushd
 cd /lIw/Y7
 pushd /lNwi94P/a/hoGVt
 cd /xIoC/W5DwG
 cd /
 pushd /
-dirs 
-popd 
-popd 
-dirs 
-pwd 
+dirs
+popd
+popd
+dirs
+pwd
 cd /XxzqIHDkEB
-dirs 
+dirs
 pushd /YFV86Skb
-popd 
-dirs 
+popd
+dirs
 pushd /0zj6/KblI8hg
 cd /GzLRZN2H4/DS
 pushd /LBQ9p3vBO
-dirs 
-dirs 
-pwd 
-pwd 
-pwd 
-popd 
-cd 
-pwd 
-popd 
-dirs 
-pwd 
+dirs
+dirs
+pwd
+pwd
+pwd
+popd
+cd
+pwd
+popd
+dirs
+pwd
 pushd /WjgxpjnMSR/vKnc2S4Bfb/N/HWfAS4oL
-popd 
-pwd 
+popd
+pwd
 pushd /6shippJ8VX/QSMI98J/M/PrQlIK43mP/ZxbAS12j11/Lj/j/tE0/jLr
 pushd /x1H19KMvc2/riFCTq7K/x
-pwd 
-pushd 
+pwd
+pushd
 pushd /
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
 pushd /
-popd 
-dirs 
+popd
+dirs
 cd /
-pushd 
-pwd 
-dirs 
+pushd
+pwd
+dirs
 pushd /lNdW18/2yQVn/eOoCxg/JS1QDIhPZ7
-dirs 
-popd 
-popd 
-popd 
-popd 
-dirs 
+dirs
+popd
+popd
+popd
+popd
+dirs
 pushd /5jkvvD/1ujp2JX89B/Z/HuL/Qbjau/LAOx/DXqQ00Q33C/AI/baGV6
 pushd /GEzIzj/zOyG/Kh2UJIrS/8Mecd/MArZ/AKrC/SW8/xdM61m8vQL
 pushd /y
-pushd 
+pushd
 pushd /1zaB/vo7rLfU/vLSUIbm82/4GCBVe/T/M0lQO/Vjs7gcalCb/guq
 cd /QaCRM6dVdx
-popd 
-pwd 
+popd
+pwd
 cd /WfR4QWnAw7/BydvFKA/P24n8k9/jVhh3zIfsf/P1U8
-pwd 
-pwd 
-pwd 
-pwd 
-popd 
+pwd
+pwd
+pwd
+pwd
+popd
 cd /U8tA8VzrYt
-dirs 
+dirs
 cd /9rD/iVdOiK6L/Y7Gf5m/PkPc3/DI/wyht1/I7zkncz/vgfwqJu
 pushd /
-pwd 
-dirs 
-popd 
+pwd
+dirs
+popd
 pushd /
 pushd /DJt22O7/NITuneKrCE
-popd 
-pwd 
-dirs 
-cd 
+popd
+pwd
+dirs
+cd
 cd /Qf/BTRT
 pushd /N7U/y7YP
-pwd 
+pwd
 cd /FnsBleUEi/xmHm7wYA3E/oKDMlf9Csi
-popd 
-pwd 
-dirs 
-pwd 
-popd 
-dirs 
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
+pwd
+popd
+dirs
+popd
+pwd
+dirs
 cd /fc4Om5lo/j/x6/uCuGJw/T271J/R5W/G/GEJy/3QIJi6R7
-popd 
-popd 
-popd 
+popd
+popd
+popd
 pushd /
-popd 
-pushd 
-pwd 
-popd 
-dirs 
-pushd 
-pwd 
-dirs 
-dirs 
+popd
+pushd
+pwd
+popd
+dirs
+pushd
+pwd
+dirs
+dirs
 pushd /n
-popd 
+popd
 pushd /1JuL9d0r
-popd 
+popd
 cd /c
-popd 
-popd 
+popd
+popd
 cd /
-popd 
-dirs 
-popd 
-popd 
-popd 
-popd 
+popd
+dirs
+popd
+popd
+popd
+popd
 pushd /CkR
-pwd 
-popd 
-dirs 
-popd 
-popd 
-popd 
-popd 
-popd 
-cd 
+pwd
+popd
+dirs
+popd
+popd
+popd
+popd
+popd
+cd
 cd /a
-popd 
-dirs 
-dirs 
-dirs 
-popd 
-pwd 
+popd
+dirs
+dirs
+dirs
+popd
+pwd
 cd /
 pushd /XKE1u/7
-pwd 
-popd 
+pwd
+popd
 pushd /
 pushd /YQIJoZm3/dD
 cd /
-dirs 
-pwd 
-pwd 
-pwd 
-dirs 
-popd 
-dirs 
-dirs 
-dirs 
+dirs
+pwd
+pwd
+pwd
+dirs
+popd
+dirs
+dirs
+dirs
 cd /7Ptj5DCCY/D4uzK
-popd 
-popd 
+popd
+popd
 cd /7PZ/vDWw/zEnZnq/eUHOWLAsQ/IcgTzA
-pwd 
+pwd
 pushd /QhvgY
-pwd 
+pwd
 cd /Upq/sXtjS18x
 pushd /JI6r
-cd 
-popd 
-cd 
-dirs 
-dirs 
-pwd 
-dirs 
-pushd 
-cd 
-dirs 
-popd 
+cd
+popd
+cd
+dirs
+dirs
+pwd
+dirs
+pushd
+cd
+dirs
+popd
 cd /4OXK
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 cd /Q/G4cctCu/9t/iooNPuUQz/AQghGejXhH/fCSlGJLKg3/KJWFs/Je15
-pwd 
+pwd
 pushd /
 pushd /EpwN577kVL
-pwd 
+pwd
 pushd /PZOQ3xvV
-pwd 
+pwd
 pushd /
-cd 
-dirs 
+cd
+dirs
 cd /6j65iKfvK
-dirs 
-popd 
+dirs
+popd
 cd /
-dirs 
-cd 
-pwd 
+dirs
+cd
+pwd
 pushd /QEXdFFIz/vBUT/4jh/H
 cd /KELIO2/1o/w2/gH/9OHU7Q3sv8/pPxh6haiXR/Hpr/LB/S5LlNWLb
-popd 
-dirs 
-pwd 
-pushd 
+popd
+dirs
+pwd
+pushd
 pushd /pARwPX6Aq1
-pushd 
-dirs 
-dirs 
-dirs 
-pwd 
-cd 
-dirs 
-pushd 
+pushd
+dirs
+dirs
+dirs
+pwd
+cd
+dirs
+pushd
 pushd /u9
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+dirs
 pushd /p3QlEOJ/8BAlVlL3
-popd 
-pushd 
-pwd 
+popd
+pushd
+pwd
 pushd /3NZ4DV6
-popd 
+popd
 pushd /etDkjD/4
-popd 
-pushd 
-dirs 
+popd
+pushd
+dirs
 cd /
-dirs 
-popd 
-pwd 
-pwd 
-pwd 
+dirs
+popd
+pwd
+pwd
+pwd
 cd /
-cd 
-dirs 
-dirs 
-pwd 
-popd 
-popd 
-pwd 
-pwd 
-popd 
-dirs 
-pwd 
-dirs 
-pwd 
+cd
+dirs
+dirs
+pwd
+popd
+popd
+pwd
+pwd
+popd
+dirs
+pwd
+dirs
+pwd
 cd /Fdk7m
-dirs 
-pwd 
-dirs 
-cd 
+dirs
+pwd
+dirs
+cd
 cd /MomzZnD
-pwd 
-pwd 
-dirs 
-popd 
-popd 
-popd 
+pwd
+pwd
+dirs
+popd
+popd
+popd
 pushd /
-popd 
+popd
 pushd /
-popd 
-popd 
-pushd 
+popd
+popd
+pushd
 pushd /
-pushd 
+pushd
 pushd /
-dirs 
-popd 
-pwd 
+dirs
+popd
+pwd
 pushd /bl7UN/ZACImcV7/PP7gi/db/DxZNQ/P4/BJwZFpaAv2/jWn/LcTJ0Gb
 cd /f9FKLu1EFS
-dirs 
+dirs
 pushd /ctW/SDfbOs/LrR8B16fK
-popd 
-dirs 
-pwd 
-pushd 
-popd 
-popd 
-dirs 
-popd 
-dirs 
-pwd 
-popd 
-pushd 
-cd 
-dirs 
+popd
+dirs
+pwd
+pushd
+popd
+popd
+dirs
+popd
+dirs
+pwd
+popd
+pushd
+cd
+dirs
 pushd /iQYfFMyH0
-dirs 
-pwd 
-pwd 
+dirs
+pwd
+pwd
 pushd /6cof/OzRyHVkTy
 cd /9NK6o1KH/ki7V5tw7B/ek2/mAj1/uKMvLj/m/K1K/S
 pushd /e6kUu/BpZcpu7m
-dirs 
-dirs 
-popd 
-pwd 
-pwd 
-dirs 
-cd 
-dirs 
-popd 
-popd 
-dirs 
+dirs
+dirs
+popd
+pwd
+pwd
+dirs
+cd
+dirs
+popd
+popd
+dirs
 cd /
-pwd 
-dirs 
-popd 
-dirs 
-dirs 
-dirs 
-dirs 
-dirs 
-dirs 
+pwd
+dirs
+popd
+dirs
+dirs
+dirs
+dirs
+dirs
+dirs
 cd /3/99GoJbB9/4vvQh4/w/zI2i1Pg9t/dDB/tbKw/f
 pushd /KYIML/QRhj4Vm/rYW
-pwd 
+pwd
 cd /15r
-dirs 
+dirs
 cd /Crcl/9BVZ
-popd 
-dirs 
-pushd 
+popd
+dirs
+pushd
 cd /5GIU
 pushd /SBe/qssLas/SEJX
-pwd 
-pwd 
-dirs 
-pwd 
-popd 
-dirs 
+pwd
+pwd
+dirs
+pwd
+popd
+dirs
 cd /9Xp/imw/klFQR4icj/iq/QJCq/hGN/lGFpgIDs
-pwd 
-popd 
-popd 
-pwd 
-pwd 
-dirs 
-pwd 
+pwd
+popd
+popd
+pwd
+pwd
+dirs
+pwd
 cd /XWfhWZNasZ
-cd 
+cd
 pushd /Kw/6titxbvm/Y0PW/64qypXE
-popd 
-pushd 
-dirs 
-pwd 
-dirs 
-popd 
-popd 
-cd 
+popd
+pushd
+dirs
+pwd
+dirs
+popd
+popd
+cd
 cd /MfmmPs5
 pushd /Kxt
-cd 
-pwd 
+cd
+pwd
 cd /KaO/eNRPswJD/WTTVEJuW4/y2Qm3
 cd /
 cd /gOgijZt8X/JeR1iir
-pwd 
-popd 
+pwd
+popd
 pushd /
 cd /Ch
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 pushd /5qXLnvU3mh
-popd 
-pwd 
-popd 
-popd 
-pushd 
+popd
+pwd
+popd
+popd
+pushd
 cd /
 pushd /La/1x/y6/pLjrC8Xv/i8LQQoF/wJmg7pol/k1ykBv
 pushd /uEH5/lzaGDf/Z8mXP3z/cJgwh/Psq7tRixbH/s2w0tr
 cd /SSkX/BJY/BNzwkWcW
-dirs 
+dirs
 cd /V8KUtmKNe/tcO7H
 cd /
-pushd 
-cd 
-cd 
-dirs 
+pushd
+cd
+cd
+dirs
 pushd /UfpTibCv
-popd 
-dirs 
-cd 
-pwd 
+popd
+dirs
+cd
+pwd
 cd /Et
-popd 
-pwd 
+popd
+pwd
 cd /e
-dirs 
-pwd 
-popd 
-dirs 
-dirs 
-pwd 
+dirs
+pwd
+popd
+dirs
+dirs
+pwd
 cd /S57hm/yqlIVoM
 cd /
 pushd /J8ipCayb/u30AfeKdz
 pushd /K98eOHk/b2XO
-popd 
+popd
 pushd /WSQVdJBPL/X
-pushd 
-dirs 
+pushd
+dirs
 pushd /s/WsbkKsH63P/2hnImgY/1M/yc1ITZjQ1
-pwd 
+pwd
 pushd /CuYCa/zSfem/a/QAK/Ch/WRqdXK4h3v/LH
-dirs 
-popd 
+dirs
+popd
 pushd /
-popd 
-popd 
-pwd 
+popd
+popd
+pwd
 pushd /
 pushd /d8RwBVXr/5fJ08w
-popd 
-pwd 
-dirs 
-pwd 
-pwd 
-pwd 
+popd
+pwd
+dirs
+pwd
+pwd
+pwd
 cd /iOh/rs6BIOv6j
 cd /
-popd 
-pwd 
+popd
+pwd
 cd /o/hpDC
-dirs 
+dirs
 cd /
-pwd 
+pwd
 pushd /CoAb
-cd 
-pwd 
-dirs 
+cd
+pwd
+dirs
 cd /
-popd 
-pwd 
-dirs 
-pushd 
-pwd 
+popd
+pwd
+dirs
+pushd
+pwd
 pushd /
 pushd /
-dirs 
-pwd 
-dirs 
-cd 
-pushd 
-pushd 
-popd 
-dirs 
+dirs
+pwd
+dirs
+cd
+pushd
+pushd
+popd
+dirs
 pushd /R/3o/36505JTby/wFBNjZ/SpqJ5Om/mFeQuyjG7w/8SW/wswcS8PR/74sv9Uk
-popd 
-pwd 
+popd
+pwd
 pushd /GhfBnJmA/pFET8lPjZ/vVszJ6t39v/i
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 cd /xyUsLwp
-pwd 
-pwd 
+pwd
+pwd
 cd /iEu7hBzaQa
-popd 
+popd
 pushd /w
-popd 
-pwd 
-pwd 
-popd 
-pwd 
+popd
+pwd
+pwd
+popd
+pwd
 pushd /o7aR19nxM
-dirs 
-dirs 
+dirs
+dirs
 pushd /g0/xqj2m/N3Zy/e8qxf/Omo7CPnsa3
 pushd /01
-dirs 
-popd 
+dirs
+popd
 pushd /12eldzwQSP
-pwd 
-pwd 
-dirs 
+pwd
+pwd
+dirs
 pushd /n
-popd 
-dirs 
-pushd 
-pushd 
+popd
+dirs
+pushd
+pushd
 cd /T1e/WTfntk/gmgohN/r6D2hwZb
 pushd /TUwnnz/GKO5O5
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+pwd
 cd /8uxoeXR/d3z0sVCQP/8/e0Am3aB
 cd /SXPT/11Im91W7xy
-pwd 
-dirs 
-dirs 
-pwd 
-dirs 
-popd 
-pwd 
-pwd 
+pwd
+dirs
+dirs
+pwd
+dirs
+popd
+pwd
+pwd
 pushd /g9GYYJdB4/DBt
-popd 
-pushd 
-popd 
+popd
+pushd
+popd
 cd /VaM/QS7xh7y/5MjJe
 cd /MskN
-popd 
-pwd 
-popd 
-pwd 
-pushd 
+popd
+pwd
+popd
+pwd
+pushd
 cd /WWOEn
 cd /KXtkQlDE
-popd 
-cd 
-pushd 
-popd 
+popd
+cd
+pushd
+popd
 cd /Nxzq/s9nBN8QK/1p/bDMJ4
-popd 
-popd 
+popd
+popd
 cd /7YVG7
-pwd 
-dirs 
-popd 
+pwd
+dirs
+popd
 cd /jpbXX
-pwd 
-popd 
+pwd
+popd
 cd /yb9tZz/ycXH6b
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
 pushd /CgC4JCFFRu
-popd 
-dirs 
+popd
+dirs
 pushd /EpP/9Qj4eC
-popd 
-dirs 
-pwd 
-dirs 
-pushd 
+popd
+dirs
+pwd
+dirs
+pushd
 pushd /8b/fB/XCnxy5C/waYFomMj
 cd /YuFV/1ircXmXM/7GYbhdtSO/Bx07esfT/igJr1r
 cd /
-popd 
-popd 
+popd
+popd
 pushd /
-dirs 
-dirs 
+dirs
+dirs
 pushd /6Hs/Zg/wzh
 pushd /
-pwd 
-pushd 
-popd 
-cd 
-dirs 
-popd 
-pushd 
+pwd
+pushd
+popd
+cd
+dirs
+popd
+pushd
 cd /hIqL/o0JXNhwT/66/OIFsZtZ/5orVFC/B/JZiveuo6cQ
 cd /YwIUGcMKN/cG0SWMO
 pushd /gYJT
-pwd 
+pwd
 cd /
-dirs 
-pwd 
+dirs
+pwd
 pushd /WLxM
-dirs 
-dirs 
-popd 
-pwd 
+dirs
+dirs
+popd
+pwd
 pushd /S4/oW1xLCA/a4G6I/nM/sO797YRFr
-popd 
-dirs 
-pwd 
+popd
+dirs
+pwd
 cd /6DISZaaKb/vK7
-pwd 
+pwd
 pushd /Uwk
-pwd 
-popd 
-dirs 
+pwd
+popd
+dirs
 cd /s41z
-dirs 
-popd 
-popd 
-popd 
+dirs
+popd
+popd
+popd
 cd /GiS6rGQ8RZ/2p7MI1
-popd 
+popd
 cd /UJ/V7JT5A32/7X
-dirs 
-pwd 
-pwd 
-popd 
+dirs
+pwd
+pwd
+popd
 pushd /1w6k9Y15ED/u
-dirs 
-dirs 
+dirs
+dirs
 cd /ITMRQ6fm1
 cd /NymZT
 cd /vqE7o5Us/yZJqP4uU5/G
-pwd 
+pwd
 cd /CdHz/utsikRpA07/PNp7
-dirs 
+dirs
 cd /
-pushd 
-dirs 
+pushd
+dirs
 cd /mqRph0/4Tldpy08/U
-dirs 
-dirs 
-popd 
+dirs
+dirs
+popd
 pushd /GtPMzp/VdIOIHL15/pAjT/ESU6B9nm
-pwd 
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
+pwd
 cd /w6T3n
-dirs 
-pushd 
-pushd 
+dirs
+pushd
+pushd
 pushd /
-cd 
-pwd 
+cd
+pwd
 cd /AhE99QW7j/N6pdM/hQWcN5WX/oGYVwG/Bb56Bgggx
 cd /Zfn
-popd 
+popd
 cd /2ddlCbKSbe
-pwd 
-pwd 
+pwd
+pwd
 cd /
 cd /TgsLAGu/w8L
-popd 
-pushd 
-popd 
-pwd 
-dirs 
+popd
+pushd
+popd
+pwd
+dirs
 pushd /M1/9XiYOy/51t4hV2WE/ppV134F/33UlEhp
-popd 
-popd 
+popd
+popd
 pushd /RS4
 pushd /
 pushd /
-dirs 
+dirs
 cd /C
 pushd /Qs3ImrpV
-dirs 
-pwd 
+dirs
+pwd
 pushd /n
 cd /R
-popd 
+popd
 pushd /Kavlu2uA
-pwd 
+pwd
 cd /Q20OCc6fj/6YbD51
 cd /
-pwd 
+pwd
 pushd /Oo6Cv417gN
-pwd 
-pwd 
+pwd
+pwd
 cd /ozhb
 cd /
 pushd /
-popd 
+popd
 pushd /rN0fnAD/fm/xI7J/9Y0c6z1x/nW5K/HzhE7/e3SUa/F6Kthl/bN
-popd 
-pwd 
+popd
+pwd
 cd /GYjPSUH/YnSp3C/E/OvOKNet
 pushd /
-popd 
-pwd 
-dirs 
-pwd 
+popd
+pwd
+dirs
+pwd
 cd /j6A/rwKu7yB
 pushd /wgJVMdIyV0/9
 pushd /ebEON0crMt
-pwd 
-popd 
-cd 
+pwd
+popd
+cd
 cd /
-pwd 
-popd 
+pwd
+popd
 pushd /3/o8Eav7nCS/wWkvN/KMqTClL
 pushd /
-pwd 
-popd 
-popd 
-popd 
-dirs 
-dirs 
-popd 
+pwd
+popd
+popd
+popd
+dirs
+dirs
+popd
 cd /ty/xVSSQ/AqKl/lfbD2SP/joR/Jji/4f6Ll/InwEiv
-popd 
-pwd 
-dirs 
-dirs 
-pwd 
+popd
+pwd
+dirs
+dirs
+pwd
 cd /KuzED/TLplyzn/ri3zngJ8I/xJXhfUIAg
-pwd 
-pwd 
-pushd 
-dirs 
-popd 
+pwd
+pwd
+pushd
+dirs
+popd
 cd /Z
-popd 
-cd 
-popd 
+popd
+cd
+popd
 pushd /pqOPJ
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 pushd /GHZvq
-dirs 
-pwd 
+dirs
+pwd
 cd /C32wnfFxDk/llQ
 pushd /hANcsYTHlt
 cd /9PC9oCJT/vqfAh7Ig9c
-pwd 
-dirs 
-popd 
-dirs 
+pwd
+dirs
+popd
+dirs
 pushd /k/uM7
-popd 
-pwd 
-pwd 
-popd 
+popd
+pwd
+pwd
+popd
 cd /
 cd /3Q7hmeRW/3hX/Dj/1DsnZEpP/chQ5PfFY
-popd 
-popd 
+popd
+popd
 cd /zUU/ox0ijM
-pwd 
+pwd
 pushd /1XSGfMN4
 pushd /
 pushd /hL3kDL
-dirs 
+dirs
 pushd /sVxe3UE34r/bGYNhm/k0/mwLFAh/5ph/qis
-cd 
-pwd 
-dirs 
-pwd 
-popd 
+cd
+pwd
+dirs
+pwd
+popd
 cd /gp0j/nXny/0PfUctnx/UoiKg
-pwd 
-popd 
+pwd
+popd
 pushd /B8
-pwd 
-pushd 
-pwd 
-dirs 
-dirs 
+pwd
+pushd
+pwd
+dirs
+dirs
 pushd /
 cd /
-dirs 
-pwd 
-popd 
+dirs
+pwd
+popd
 pushd /Qh
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 cd /99t3LMZ
-popd 
-pwd 
-dirs 
-dirs 
+popd
+pwd
+dirs
+dirs
 pushd /JoYi/DSIg6z/Kp8c/rn4/P0/zakTpaHZFj/z/gFb/SO0dg
 pushd /i8/2n6
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 cd /sxn
-popd 
+popd
 pushd /7cdlXFsQ
-pushd 
+pushd
 cd /
 pushd /
 cd /5U1jRRtD/DLKpqD
-dirs 
+dirs
 cd /
-pwd 
+pwd
 pushd /M0i/7wDWFqW/3/VEJ6L9lF/FKb/mGt2dK/U0KInReK/I8
 pushd /j
 pushd /
 cd /ZUMePzSct
-pwd 
+pwd
 pushd /
-pwd 
-dirs 
-dirs 
-pwd 
-popd 
-pwd 
-dirs 
-pwd 
-dirs 
+pwd
+dirs
+dirs
+pwd
+popd
+pwd
+dirs
+pwd
+dirs
 cd /EW
 pushd /CX/AVDwOj/FAl/w
-pushd 
-pwd 
+pushd
+pwd
 pushd /
-pwd 
+pwd
 cd /cq
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 pushd /M9fZ/KQ3aMO/xuY/diZ4
 cd /
-dirs 
+dirs
 cd /
-cd 
-cd 
+cd
+cd
 cd /uem/WrM3TrSd3p
-pwd 
-popd 
-dirs 
-pwd 
+pwd
+popd
+dirs
+pwd
 pushd /mlZcfzpe/Llrq
-pwd 
+pwd
 pushd /d
-popd 
-popd 
-dirs 
-dirs 
-pwd 
+popd
+popd
+dirs
+dirs
+pwd
 pushd /rJ2WiJjoMi
-dirs 
+dirs
 cd /uepRyI
-pwd 
-cd 
-pwd 
-popd 
-popd 
-dirs 
+pwd
+cd
+pwd
+popd
+popd
+dirs
 pushd /
 pushd /
-popd 
+popd
 pushd /m8/kez29/ud/ZXovTTSu1s/2rIET5CX/9xH/2G1vROHan
 cd /YhkZ/c6EBCPXVW
 cd /7JCWQ/W03dv
-pwd 
-popd 
-dirs 
-popd 
-popd 
-popd 
+pwd
+popd
+dirs
+popd
+popd
+popd
 cd /xjFeLbIx9/Pp9JIulQJW
-popd 
+popd
 cd /MqkkqitDN/0JB/X2WBV/8bxrv0wSg
-pwd 
+pwd
 pushd /pIa/4pigFi/fgQMGPxx/np9N2ZGFJA/DbZnuF
-popd 
-pwd 
-popd 
-dirs 
+popd
+pwd
+popd
+dirs
 pushd /bKFNRb
-dirs 
+dirs
 cd /V/3MM/h/J/SPyAuH0
-dirs 
+dirs
 pushd /JFiPOGBY
-cd 
-dirs 
-popd 
+cd
+dirs
+popd
 cd /ucuxudx77/BWMf7
-pushd 
-popd 
-popd 
-popd 
+pushd
+popd
+popd
+popd
 cd /52hW
-dirs 
-popd 
-dirs 
-dirs 
-popd 
+dirs
+popd
+dirs
+dirs
+popd
 cd /8z
 pushd /59/99qMnJ1xg/sdq
-popd 
-dirs 
-dirs 
-popd 
+popd
+dirs
+dirs
+popd
 cd /uDv/x
-pwd 
-popd 
-pwd 
+pwd
+popd
+pwd
 pushd /2SXl5NnKW
-dirs 
-popd 
+dirs
+popd
 pushd /tELVHihtx8
 cd /rHndBpO9Sg/uNplAMg/pmeDMSgU/N90Y1Bd7IE/BphW2IlPH/XUo/Y8/3Xn1gmMwsL
 cd /O0t6nM/FJYgg/nchaJfwP7E
-dirs 
-pwd 
-pwd 
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+pwd
+dirs
+pwd
+dirs
 cd /
 pushd /EMLiuEEcz
-dirs 
+dirs
 pushd /
-popd 
+popd
 cd /lE
-popd 
-popd 
-pwd 
-dirs 
-pwd 
+popd
+popd
+pwd
+dirs
+pwd
 pushd /5
-dirs 
+dirs
 cd /
-popd 
+popd
 cd /AeB
-dirs 
-dirs 
-dirs 
-pwd 
+dirs
+dirs
+dirs
+pwd
 cd /44Yiz1F
-popd 
-dirs 
+popd
+dirs
 cd /F53EfvVOti
-cd 
+cd
 cd /
 pushd /F89z/T/g
 pushd /
-popd 
+popd
 pushd /3hv/U
-dirs 
+dirs
 cd /fe/GIgf6/leeH3/xPM1/K/kh6knQs/C7FduhP/KSA
 cd /
-dirs 
-popd 
+dirs
+popd
 cd /Ghu
 pushd /I/xgCUdwik0
 cd /
 cd /KC/cP/M8xLo
 cd /LXB
-popd 
+popd
 pushd /Ra4HgDFKv
 cd /pedoebz/cupy4ygz
 cd /fZpF8u5sa/4/Ivk0UGddGa/9trY
-cd 
-dirs 
+cd
+dirs
 cd /IOKlMUi7u
-pushd 
-popd 
-pwd 
-dirs 
-popd 
-pwd 
+pushd
+popd
+pwd
+dirs
+popd
+pwd
 pushd /jSDDn2Tt
-pwd 
+pwd
 cd /
-pwd 
-popd 
-dirs 
-pwd 
+pwd
+popd
+dirs
+pwd
 cd /
 cd /Sog2gYU5/iv00/3SRWdFJk0/QV0I
 cd /
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 cd /epmXz4b
-pwd 
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
+pwd
 pushd /H
-popd 
+popd
 cd /A3Pv
-dirs 
+dirs
 pushd /
 pushd /r/kSFF4K6Bz
-pwd 
-dirs 
-dirs 
-pwd 
+pwd
+dirs
+dirs
+pwd
 cd /x/fe/cqBN227GE9
-dirs 
+dirs
 cd /MNtRo
 pushd /jzCS3Op9
-cd 
+cd
 pushd /co0W/L/Ab5u/XmpIBlS
-cd 
-dirs 
-cd 
-dirs 
+cd
+dirs
+cd
+dirs
 pushd /
-pwd 
-dirs 
-pwd 
+pwd
+dirs
+pwd
 cd /
-cd 
+cd
 pushd /
 cd /Mw
-dirs 
-pwd 
+dirs
+pwd
 pushd /
 cd /GXo/ormI/UJBa6D
-cd 
-cd 
-popd 
-dirs 
-pwd 
-popd 
+cd
+cd
+popd
+dirs
+pwd
+popd
 cd /DI9CqpM7y
 cd /
-popd 
+popd
 cd /SwCDZHeBN/KUK3
-dirs 
-dirs 
-dirs 
+dirs
+dirs
+dirs
 pushd /Z1VBA4k8q
-dirs 
+dirs
 cd /VBO6z9i/IGLB2NL/CszvV/I6hC/OKWdwYRKCF/Nlaa8XP/I8Vgmn4w
-dirs 
-pwd 
-popd 
+dirs
+pwd
+popd
 cd /pdQ/jgfmPkQ1i/qy7IM
-popd 
-popd 
-dirs 
-popd 
-pwd 
-popd 
+popd
+popd
+dirs
+popd
+pwd
+popd
 cd /NRJwJ1WNd
-pwd 
+pwd
 cd /
 cd /
 pushd /8jJp/S05jUl/yDMN1bu
 pushd /K6bBPHN/O
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
 pushd /cjlrKU/qs3M9b/pCsltMju
-pwd 
-popd 
+pwd
+popd
 pushd /Dbza/vwElq1s/l6xZoJW
 pushd /eGcCrNqS
 pushd /SHTgvkl/022db
-dirs 
-pwd 
-popd 
-popd 
-popd 
-dirs 
-dirs 
-pushd 
+dirs
+pwd
+popd
+popd
+popd
+dirs
+dirs
+pushd
 pushd /hd1nRA3S
 pushd /
-pwd 
-popd 
+pwd
+popd
 cd /
-dirs 
-popd 
-pushd 
+dirs
+popd
+pushd
 pushd /pfRZiQjT
-popd 
+popd
 cd /spIIK
-popd 
-popd 
+popd
+popd
 pushd /kBdI6Pk5pj/0CL/gJM1Nmq7K/mZj2HjC/D/KD5lhS
-popd 
-dirs 
-cd 
-pwd 
-cd 
-popd 
-pwd 
+popd
+dirs
+cd
+pwd
+cd
+popd
+pwd
 cd /Hab/y8abW3TUv/c1Lf5qh/cZ/0/sXRlaWWPNF/F/W/bJsv1jdMx
-pwd 
+pwd
 cd /
-dirs 
-pwd 
-pwd 
-popd 
+dirs
+pwd
+pwd
+popd
 pushd /Ics77o
 pushd /
-popd 
-dirs 
-popd 
-pwd 
-popd 
-dirs 
+popd
+dirs
+popd
+pwd
+popd
+dirs
 pushd /j
-popd 
-pwd 
-popd 
+popd
+pwd
+popd
 pushd /n2Gr6mp/eGFAiSb8
 cd /0/4mHg9uSe
-dirs 
-dirs 
+dirs
+dirs
 cd /KDCai446A/8IZ2Ze
 pushd /0WE625
-popd 
-dirs 
-dirs 
-cd 
-pwd 
+popd
+dirs
+dirs
+cd
+pwd
 pushd /
-dirs 
-dirs 
-popd 
-pwd 
-popd 
-pushd 
-dirs 
-pwd 
-dirs 
-pushd 
-pwd 
+dirs
+dirs
+popd
+pwd
+popd
+pushd
+dirs
+pwd
+dirs
+pushd
+pwd
 cd /jX/aIn6SDw0Vd
-pwd 
-popd 
-pwd 
+pwd
+popd
+pwd
 cd /
 pushd /9hlhfW/4bt6s5rXND/zMsTby/479bmUM/tohlurufP/EmXzb0VGpi/hwCWWV4Jyk/mHDxfRK/SNX
 cd /qkUx9F6/k7iz8kP
-dirs 
-popd 
-pwd 
-pwd 
+dirs
+popd
+pwd
+pwd
 pushd /oO7XNUnXFC/A29RHqqbU/q/znYcd
-dirs 
-dirs 
-pushd 
-pwd 
+dirs
+dirs
+pushd
+pwd
 pushd /amoFAO8n
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
 cd /WL/fnn4O/rbKCDm/tkuyBwgrW/bScyI2P
-popd 
+popd
 pushd /
 cd /xKDYGX9Ha/3gRYXtGLX/OsJyv/KbxQsGZ5/m
 pushd /GgSeQ/djARnxG5
-dirs 
-popd 
+dirs
+popd
 pushd /YUmc0jZf/1S/OPbY
-pwd 
+pwd
 cd /
-dirs 
-cd 
-cd 
-popd 
-pwd 
+dirs
+cd
+cd
+popd
+pwd
 cd /2v2daVB/sgdPbl/SHkUXCt/7qO8AjXcs/G0/c
-popd 
-pwd 
+popd
+pwd
 cd /Rkbe9/vSnOaJoE/3n7/yt9
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 pushd /HBw2uFH/4qIXr/2c8JpJtY1
 pushd /
-dirs 
+dirs
 pushd /JZ/axQlc
-popd 
-pwd 
-dirs 
-dirs 
+popd
+pwd
+dirs
+dirs
 cd /wq8JcQlyW
-dirs 
-popd 
-cd 
-dirs 
-popd 
+dirs
+popd
+cd
+dirs
+popd
 cd /KORMocgu
-dirs 
+dirs
 pushd /f9UUe/EaVvrph
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 cd /FHWONEj8BY/HNx0
-popd 
-cd 
-dirs 
-cd 
-pwd 
-pwd 
-popd 
+popd
+cd
+dirs
+cd
+pwd
+pwd
+popd
 pushd /
 cd /xn/A/Or
 cd /
-pwd 
+pwd
 pushd /
-popd 
-dirs 
-pwd 
-popd 
+popd
+dirs
+pwd
+popd
 pushd /DkVu2RpPFn/gaffgzZ/LVtfJkrlu
 pushd /AkOVjstSb/HLhr
-popd 
-pwd 
-dirs 
-dirs 
+popd
+pwd
+dirs
+dirs
 cd /CRFxsec3
-popd 
-cd 
+popd
+cd
 pushd /yUqrjuV/6haybq/q004tf/3Q/7/AKhbH/9GqxLkLW/fBfS8n
-pwd 
-pwd 
+pwd
+pwd
 pushd /3Z9S0UVyi/vSF
-dirs 
-dirs 
-popd 
-dirs 
-pushd 
-pwd 
+dirs
+dirs
+popd
+dirs
+pushd
+pwd
 pushd /NSiTO8
-popd 
-pwd 
+popd
+pwd
 pushd /SMvl/UqlGzEds
 cd /JnWy7
-pwd 
-pushd 
-popd 
-popd 
-popd 
-dirs 
+pwd
+pushd
+popd
+popd
+popd
+dirs
 pushd /FtsP
 cd /
 cd /PPj3
-popd 
+popd
 cd /
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 cd /okg/0XayaM0lO/30F/NRHDt2IiUz/vGhvcywhs/5IPrAxqyX/tY2rXmQ
 pushd /l
 pushd /eW8L/ISU/JfGR8dEl
 cd /GU
-pwd 
-popd 
-popd 
-pwd 
-pwd 
-popd 
-cd 
+pwd
+popd
+popd
+pwd
+pwd
+popd
+cd
 pushd /LNj
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+dirs
 cd /
-dirs 
-dirs 
+dirs
+dirs
 pushd /
 cd /yLkFYe
-pwd 
+pwd
 cd /u/sd2GaPgb
-popd 
+popd
 pushd /Z53pkOO
-dirs 
-pwd 
-popd 
+dirs
+pwd
+popd
 pushd /PjLD
-pwd 
+pwd
 cd /
 cd /oH1vg
 cd /LGN/TGlz/C4A8I/sUsMFtnPaP/vAX9Ke/WqXn
-pwd 
-pwd 
+pwd
+pwd
 pushd /QFbZ/OiL/i31wNA2AU/8
 pushd /U0x842/UKp
-dirs 
-pushd 
+dirs
+pushd
 cd /
 cd /oSkkN
-pushd 
+pushd
 cd /fzNTV/n/QaLsgmTh/KdrE9VC
-pwd 
-popd 
-pwd 
-pwd 
+pwd
+popd
+pwd
+pwd
 pushd /p2/XZi8fdv/QfL
-popd 
-pushd 
-dirs 
+popd
+pushd
+dirs
 pushd /
-dirs 
+dirs
 pushd /
-pushd 
-pwd 
-dirs 
+pushd
+pwd
+dirs
 cd /gamSO75WQ/a15Ax/DCxbk5G/gwr7U
-popd 
-dirs 
+popd
+dirs
 cd /SnWQgBB6wd
 cd /
-popd 
-dirs 
-dirs 
-dirs 
-dirs 
-popd 
+popd
+dirs
+dirs
+dirs
+dirs
+popd
 pushd /mO5Agv/qsBEyfbp
-popd 
+popd
 cd /kphKN0Kxt/MmWkZ/kfocmG9ic
-cd 
-pwd 
+cd
+pwd
 cd /zxIkgwDcHx/JYBi
-pwd 
-dirs 
+pwd
+dirs
 pushd /
-dirs 
-popd 
+dirs
+popd
 cd /1
 cd /Y3n4j7vb
 pushd /QovM9Shiu/po/8s1b1j7cYn/sKv4GS/7Whtth9gz
-popd 
-cd 
+popd
+cd
 cd /aTzBZ34e/HbyK0Mor
-dirs 
-dirs 
-dirs 
-dirs 
-popd 
-pwd 
+dirs
+dirs
+dirs
+dirs
+popd
+pwd
 pushd /
-pwd 
-pushd 
-pwd 
+pwd
+pushd
+pwd
 cd /XAOw7/J/kxZvA
-dirs 
-pwd 
+dirs
+pwd
 pushd /74u5p/AE8apL/dqxANvq5
-cd 
-popd 
-pwd 
-popd 
+cd
+popd
+pwd
+popd
 cd /4eSQE
 pushd /oFE16/6yypHOzry
-pwd 
-dirs 
-pwd 
+pwd
+dirs
+pwd
 pushd /
 pushd /
-popd 
-pwd 
-popd 
-popd 
-dirs 
-popd 
-popd 
-popd 
-popd 
+popd
+pwd
+popd
+popd
+dirs
+popd
+popd
+popd
+popd
 pushd /R/dzgDIx0
 cd /ejPSuEbeP/pzcxX/A/YVmM2/k1XlA/J
 cd /
-pwd 
-popd 
-dirs 
+pwd
+popd
+dirs
 cd /
-popd 
+popd
 cd /CO/V/C7PA/6Qd1TkFe0/6qKp
-pwd 
-dirs 
-popd 
-pushd 
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+popd
+pushd
+pwd
+dirs
+dirs
 pushd /
-pwd 
-dirs 
-pwd 
+pwd
+dirs
+pwd
 cd /Id/exODP/sdf/TJnm2/xnfFu5U77a/yc5FOSB3FP/XgD4j/H1GJF9q
 cd /
-dirs 
-pwd 
-popd 
+dirs
+pwd
+popd
 pushd /0WcsLH/ATQEW
-pwd 
+pwd
 cd /ROj/Op3g05LD
-popd 
-pushd 
+popd
+pushd
 pushd /
-dirs 
+dirs
 pushd /
 pushd /
-dirs 
+dirs
 cd /
-popd 
-popd 
-cd 
-dirs 
-popd 
+popd
+popd
+cd
+dirs
+popd
 cd /xB5iN/2v/mBpFJtgdM/0f8
-dirs 
-popd 
-popd 
-dirs 
+dirs
+popd
+popd
+dirs
 pushd /
-popd 
-dirs 
-pwd 
+popd
+dirs
+pwd
 cd /dOS/hxzv8
-dirs 
-popd 
+dirs
+popd
 cd /FPT
-dirs 
+dirs
 pushd /
-pwd 
+pwd
 pushd /
 pushd /
-pwd 
+pwd
 cd /
 cd /
 pushd /6o
 cd /c0OtgANv0p/JeSJT/hf3VluQ0V/NxGBF/Nv
-pwd 
-dirs 
+pwd
+dirs
 pushd /zgwLr/oKC2Rjap1
-dirs 
-pwd 
+dirs
+pwd
 cd /gI7VsJ5/CoyJWRRe4E/B0e0sWtRF
-dirs 
-pwd 
-pushd 
-popd 
-dirs 
+dirs
+pwd
+pushd
+popd
+dirs
 pushd /
-popd 
-pwd 
-pwd 
-dirs 
+popd
+pwd
+pwd
+dirs
 pushd /pLAGTSbj
-pwd 
+pwd
 cd /e/Y
-pwd 
-popd 
+pwd
+popd
 pushd /tMB8E/6x
 pushd /9c8/YMzA
 pushd /Cqwt
-dirs 
-dirs 
+dirs
+dirs
 pushd /QTB0POo/fVFgJ1P/wwN4fRsDx
 cd /rAKXA
-popd 
+popd
 cd /Jv5CEc/W
-cd 
+cd
 pushd /PzOpk/oHsV/7kOTvi
 pushd /BptXQ/QWj66WuoAv/I/tTNeanu2
 pushd /ugaM
-dirs 
+dirs
 cd /X9/q4xx4aZ9/Hw/S/J
 cd /In/vQIYIi
 pushd /VOXMkkU5Sf/lgF1J/eOeKKhf7a/N/cDNaQLo/k51JPkL/qJj/Nr2Rl6XHi
-dirs 
+dirs
 pushd /
-popd 
+popd
 cd /
-dirs 
-dirs 
+dirs
+dirs
 cd /x3NZyhIf
 cd /F/W2bOE
 cd /
-dirs 
-popd 
-cd 
-popd 
-pwd 
-pwd 
-dirs 
+dirs
+popd
+cd
+popd
+pwd
+pwd
+dirs
 cd /hRlfbw1n
 cd /k9OJ2V/9/YuKP5
-popd 
-cd 
-popd 
+popd
+cd
+popd
 pushd /qN/FiNdG0gec/JO/IEsf6sqhJl/1As/A818qy7NBh/BENWFDxKoP/UR
 cd /
 cd /JGKoKM7HT
-popd 
-popd 
-popd 
-dirs 
-popd 
-dirs 
-dirs 
+popd
+popd
+popd
+dirs
+popd
+dirs
+dirs
 pushd /mR/nq
 cd /
 pushd /DhzRd/tiEF
-dirs 
-pwd 
+dirs
+pwd
 pushd /xBUPp0Eu
 cd /Zjrz/SvFYC/MVwJA
-dirs 
-pwd 
-pwd 
-popd 
-popd 
-dirs 
-popd 
-pwd 
-pushd 
+dirs
+pwd
+pwd
+popd
+popd
+dirs
+popd
+pwd
+pushd
 pushd /
-dirs 
+dirs
 pushd /
 pushd /iLm9Jt2hQY
-popd 
-dirs 
-popd 
-pwd 
+popd
+dirs
+popd
+pwd
 cd /Jc1h/6r9
-popd 
-popd 
+popd
+popd
 cd /br6p/sw4pq
-pwd 
-pushd 
-popd 
-popd 
-dirs 
-popd 
-pwd 
+pwd
+pushd
+popd
+popd
+dirs
+popd
+pwd
 cd /qg/QzBK7d0o
-pwd 
-dirs 
-popd 
+pwd
+dirs
+popd
 cd /
-popd 
+popd
 cd /
 cd /rRYIBaoc/C/E3Vh4Q/LnVL0/0Tm
-cd 
-pwd 
-popd 
-dirs 
+cd
+pwd
+popd
+dirs
 cd /6qJgiQn/d5cTlbe
-pushd 
-popd 
-popd 
-popd 
+pushd
+popd
+popd
+popd
 pushd /fS7y/9c4G
-pwd 
-popd 
+pwd
+popd
 pushd /kKx
 cd /
 cd /
-popd 
-popd 
-pwd 
-dirs 
+popd
+popd
+pwd
+dirs
 cd /Us5LPSyh2/JkIkE/yY/8
-dirs 
-popd 
-dirs 
+dirs
+popd
+dirs
 pushd /3sHzpm9jX/bYcOp7Et/iwiKoHns/Ul16xWKplZ/bzvPaWsZ/hloNIAEIW
-dirs 
-dirs 
-pwd 
-pwd 
+dirs
+dirs
+pwd
+pwd
 pushd /ZO9kZ
 cd /fn/J7cwu/g4laUv
-dirs 
+dirs
 cd /Rxlcxoh/F08uAF6P
-dirs 
-popd 
+dirs
+popd
 cd /kZAHel/ZDdQRI
 pushd /olhi8ldwEe/9SZRc
-popd 
-pwd 
+popd
+pwd
 cd /2sj/3G/7fGm4x/JqstgtnB
 cd /1jLJf
-pwd 
-popd 
+pwd
+popd
 cd /
-dirs 
+dirs
 cd /SZBmZax9
-pwd 
+pwd
 pushd /e49T2Q/7q2yeszUH/rmZaOS1O/VfKi/sm1xf/lR
-dirs 
-dirs 
-dirs 
+dirs
+dirs
+dirs
 pushd /kr1V/k8
-pwd 
-popd 
-popd 
-popd 
-cd 
+pwd
+popd
+popd
+popd
+cd
 cd /bmuc92H/qDxcS/Z9f19nvEjc
-popd 
-popd 
-dirs 
+popd
+popd
+dirs
 cd /NCbim1J8
-pwd 
+pwd
 pushd /
-popd 
+popd
 pushd /
-popd 
-popd 
-pwd 
-popd 
-popd 
-pwd 
-pwd 
-popd 
-pwd 
-popd 
-dirs 
+popd
+popd
+pwd
+popd
+popd
+pwd
+pwd
+popd
+pwd
+popd
+dirs
 cd /
 pushd /
-popd 
-cd 
+popd
+cd
 pushd /fGsReOZdR/01Xsej/yXtfmoXRLu/nsS1M/KqGy1/l3p3Hwao5O
-dirs 
-pwd 
-pushd 
-dirs 
-popd 
-pwd 
-pushd 
+dirs
+pwd
+pushd
+dirs
+popd
+pwd
+pushd
 pushd /
-cd 
-dirs 
-cd 
-popd 
-popd 
-pwd 
+cd
+dirs
+cd
+popd
+popd
+pwd
 pushd /TePkhWXS85/e6z1P
-popd 
-dirs 
-dirs 
+popd
+dirs
+dirs
 pushd /C6uGdXgLFW/uPFu0Y4Y/TFY9lJ1ZKc/0K/Cfv/udRIBtws3F/psrocDAdv/VE9OiQp/WccYJ9U
-dirs 
-popd 
-pwd 
+dirs
+popd
+pwd
 pushd /O
-dirs 
+dirs
 pushd /cfgs25/7yGo39UH/fduSg/4HQclWG/A
 pushd /
 pushd /
 pushd /ZOXx/046J/ApyHYfETgl/vkQ1tijP/kiEd0dQr/uyXqP2ej/t2
-dirs 
-dirs 
+dirs
+dirs
 pushd /F5ZSoklo
-pwd 
-pwd 
+pwd
+pwd
 pushd /
 cd /GSjblP1VU
-pwd 
-dirs 
+pwd
+dirs
 cd /pC5bQhz9/ZuUn8/TR5yx/7SWITGN/8tLv/Mscw/IfmVLQ
-dirs 
-pushd 
+dirs
+pushd
 pushd /UVWk
 pushd /r/lNw5ilM2ks/dDry2fye3
 cd /
-pwd 
-dirs 
-dirs 
-dirs 
+pwd
+dirs
+dirs
+dirs
 pushd /d
 pushd /
-popd 
+popd
 cd /8
-pwd 
-dirs 
-popd 
-pwd 
-popd 
-dirs 
-cd 
-pwd 
-popd 
+pwd
+dirs
+popd
+pwd
+popd
+dirs
+cd
+pwd
+popd
 cd /ZXU5eVH8h/aILAC4/aADb/nIlulXxYAQ/UgnPnKz
-popd 
-popd 
+popd
+popd
 cd /0DGRe/JP/E/MRRG/qBee/xOGG/pkLapjj
-popd 
-dirs 
-pwd 
-dirs 
+popd
+dirs
+pwd
+dirs
 pushd /I
-pwd 
-dirs 
+pwd
+dirs
 pushd /J9R1yx6Ak/9r7bcONK
 pushd /CsGemfbPbG
 pushd /V/Wpj/e/b/hbr3yEl3/pT/CGXVAwf/H2L/1CrcobhOu
 pushd /pWnKPQk6np/sXRNaQTr1b/h3QSGn/0i8v5tm/QM7EqK/r1/rK7n/0H0hWk/g6XbLHWWU
-cd 
+cd
 pushd /4ChD/NTNEBLK3
-cd 
-popd 
-dirs 
+cd
+popd
+dirs
 pushd /
-cd 
-popd 
-pwd 
+cd
+popd
+pwd
 pushd /lPK
-pwd 
+pwd
 pushd /U/3M73/figXVrd/25DC
-popd 
-dirs 
-popd 
+popd
+dirs
+popd
 pushd /7PzXiUno/HvmgO/82N/5p4/4SZ
-cd 
-pushd 
-dirs 
-dirs 
-pwd 
+cd
+pushd
+dirs
+dirs
+pwd
 cd /n1
-pwd 
+pwd
 pushd /WfjSM8F/P/1pK2hhNZN
-dirs 
+dirs
 pushd /J7S5J2f2
-popd 
+popd
 pushd /5V5SG
-popd 
+popd
 pushd /u50eCdn06
-pushd 
+pushd
 pushd /
-popd 
-dirs 
-pushd 
-pwd 
-dirs 
-dirs 
+popd
+dirs
+pushd
+pwd
+dirs
+dirs
 cd /mClbBrRrhe
-popd 
+popd
 cd /BKDXswekK/HSt2rHTa/i8j7TaipDd
 cd /CbQ/np/YKeET
 pushd /9
 cd /557p
-popd 
+popd
 pushd /
 cd /8Fq/s/S4MDV/FEU/1Cbmghq5/Mkh828IOm7/IE4i
 cd /1cGm2MSa8u/n0J/dmm0Iw
 cd /PNi5oNTCas/dvgUrXJ/3HX0sxN
-pwd 
-popd 
+pwd
+popd
 pushd /sirFEWEWt/QkOi
 pushd /
-popd 
-popd 
-pushd 
+popd
+popd
+pushd
 pushd /
-popd 
+popd
 cd /
-dirs 
-cd 
+dirs
+cd
 cd /0L4g
-popd 
+popd
 pushd /
 pushd /8LB/lC/6QYKIcgD/TzD1
-popd 
-dirs 
+popd
+dirs
 cd /
 cd /
 pushd /
-dirs 
-popd 
-pwd 
+dirs
+popd
+pwd
 pushd /
-dirs 
-pwd 
-pwd 
+dirs
+pwd
+pwd
 pushd /
 cd /
 pushd /emxl/OQXU
-pwd 
-dirs 
+pwd
+dirs
 cd /0eNVu/5C
-dirs 
+dirs
 cd /
 pushd /PBCKH6qP95/MZdPb1
-pwd 
+pwd
 cd /k
-pushd 
+pushd
 pushd /
-pwd 
-pwd 
-popd 
-dirs 
-popd 
+pwd
+pwd
+popd
+dirs
+popd
 pushd /
 cd /8G/Fr19VvN5B/6Uu
 cd /hgYMDWn9
-popd 
-dirs 
+popd
+dirs
 cd /i/qoHPNfd/eBka/E/tGOgd4ch
-popd 
-popd 
+popd
+popd
 cd /3rJph/B/bmFV0L/4QXkS
-pushd 
-popd 
-pwd 
-pwd 
-popd 
-pwd 
-popd 
-dirs 
+pushd
+popd
+pwd
+pwd
+popd
+pwd
+popd
+dirs
 cd /iD4gBdT1
 cd /pIsTmYeAhp/rOyrWAa/Ac928qX9w
 pushd /EH
 cd /ZDI/YRgqGH/ApHqu1Z/RhXUGo/5
-dirs 
+dirs
 cd /akWj8u8uUG/1ZF8/M/1Gme
-dirs 
+dirs
 pushd /zdpjae
-pwd 
-dirs 
-popd 
-dirs 
-pushd 
+pwd
+dirs
+popd
+dirs
+pushd
 cd /VFb7ssSh/rVguXACT
-pwd 
+pwd
 pushd /C
-popd 
+popd
 cd /hbCsm1qJN
-dirs 
-pwd 
-dirs 
+dirs
+pwd
+dirs
 pushd /XA4n/ch6nsxYQ/L5lYftb
-popd 
-popd 
+popd
+popd
 pushd /ZJmCw/0hPLzHf/BQmzu36G
-dirs 
-dirs 
-dirs 
-dirs 
-dirs 
-pwd 
-dirs 
-pwd 
+dirs
+dirs
+dirs
+dirs
+dirs
+pwd
+dirs
+pwd
 cd /HFYh6g/8MnY/c
-pwd 
-dirs 
+pwd
+dirs
 pushd /4a1Y
-dirs 
-popd 
+dirs
+popd
 cd /XFKPGvA/OFVabQ/qtNoiCkr/wiyRcYm4j
-popd 
-popd 
-dirs 
+popd
+popd
+dirs
 pushd /tVKhiMbKcs/7M4Nsr
 cd /T
 pushd /tRhO3fE/gM/f27o9/Zh9sQ/WykHds56Uv/Y
-pwd 
-pwd 
+pwd
+pwd
 pushd /
-dirs 
-pwd 
-dirs 
-dirs 
+dirs
+pwd
+dirs
+dirs
 pushd /
-popd 
+popd
 cd /Q4yt85HK/xhtqIxZHL/jvM
-pwd 
-pwd 
-pwd 
+pwd
+pwd
+pwd
 pushd /L
 cd /N/PuF
-dirs 
-dirs 
-dirs 
+dirs
+dirs
+dirs
 cd /xIKF/0m69e/jbpI98l
-dirs 
+dirs
 cd /aD/86A/X6nM93N/7ByCXk/yU4/P/eextgkmya/IYfq2DG/HC
-pwd 
+pwd
 pushd /dxY/MfnFGnVDd/L0VXETb2A/OIcGHu98a
-popd 
+popd
 pushd /TZ
 pushd /
 cd /7c5HS7/9FCsOCEW
-pwd 
-dirs 
-pwd 
-pwd 
+pwd
+dirs
+pwd
+pwd
 pushd /f
-dirs 
+dirs
 pushd /pQf4/FgVXe/H
-pwd 
+pwd
 pushd /3BrTH4/XiEAAouw/Sy8xSWiTeY/pw/IMY4Iya8gb/At3
 cd /5q4nkhWAaX
-popd 
-dirs 
+popd
+dirs
 cd /
-pwd 
-dirs 
-dirs 
-dirs 
+pwd
+dirs
+dirs
+dirs
 cd /pWi3
-pushd 
-dirs 
-dirs 
-cd 
+pushd
+dirs
+dirs
+cd
 cd /
-dirs 
-dirs 
-popd 
-popd 
-pwd 
-pwd 
-pwd 
-popd 
-dirs 
-pwd 
+dirs
+dirs
+popd
+popd
+pwd
+pwd
+pwd
+popd
+dirs
+pwd
 pushd /
 pushd /pm/Y/N
-popd 
+popd
 cd /5u0xePcf/j1NE/68JFF7xo
-dirs 
+dirs
 pushd /lUjVL
-dirs 
-dirs 
-dirs 
-pwd 
-popd 
-pwd 
-dirs 
-popd 
-popd 
+dirs
+dirs
+dirs
+pwd
+popd
+pwd
+dirs
+popd
+popd
 cd /Q9wssDPN
 cd /
 cd /RlrsDVc
-pwd 
-pwd 
+pwd
+pwd
 pushd /kEmB/hwdqMkVdj
-dirs 
-pwd 
+dirs
+pwd
 pushd /F9mo6R5c/Nx25I3SF3/zbTgVnHy
-popd 
+popd
 cd /pZ
-pwd 
-popd 
-dirs 
-dirs 
-dirs 
-pwd 
-pushd 
-popd 
-pwd 
-pwd 
-dirs 
-cd 
-pushd 
-pwd 
-dirs 
-popd 
-pwd 
-popd 
+pwd
+popd
+dirs
+dirs
+dirs
+pwd
+pushd
+popd
+pwd
+pwd
+dirs
+cd
+pushd
+pwd
+dirs
+popd
+pwd
+popd
 cd /0o
-dirs 
-pwd 
-dirs 
-dirs 
+dirs
+pwd
+dirs
+dirs
 pushd /
 cd /VBxdh/XxZMRA
 pushd /a7hkt
 pushd /WCE0Gdt0V/Dv6lb/mj0Q56xJG/qUSUGbc
-pushd 
-pwd 
-dirs 
-cd 
-dirs 
-cd 
-dirs 
+pushd
+pwd
+dirs
+cd
+dirs
+cd
+dirs
 cd /NkQtqwdUu7
 cd /tfMF9CF/Gu8
-dirs 
-popd 
-dirs 
-pushd 
-pwd 
-pwd 
-dirs 
-popd 
-popd 
-pwd 
-pwd 
-dirs 
-pwd 
-dirs 
+dirs
+popd
+dirs
+pushd
+pwd
+pwd
+dirs
+popd
+popd
+pwd
+pwd
+dirs
+pwd
+dirs
 cd /J
-pwd 
-dirs 
-pwd 
-popd 
-pwd 
-pwd 
+pwd
+dirs
+pwd
+popd
+pwd
+pwd
 pushd /PIZzzIy/bkBz3faAs/kHPAiVo
-dirs 
-dirs 
-dirs 
-pwd 
-pushd 
-popd 
-pwd 
-popd 
+dirs
+dirs
+dirs
+pwd
+pushd
+popd
+pwd
+popd
 cd /lvo3AQD9YY/aw1LlPY/Id/eNDlDsH/3O/PkOw
 cd /X0u0p/KN
-pwd 
-pwd 
+pwd
+pwd
 pushd /PRYPG9x/0u
 pushd /
-popd 
-pwd 
+popd
+pwd
 pushd /TDi713sO
 pushd /Ibs6DEs/yHg/dKr6D/R
-pushd 
+pushd
 cd /
 cd /tZKpVT3GJT/yo28Rnl/Z9/jw4bVJlyv/GPm/U
-dirs 
-dirs 
+dirs
+dirs
 cd /O2k
-dirs 
+dirs
 pushd /
-popd 
-pwd 
+popd
+pwd
 cd /1MlCE
 cd /6OOmZ/U9EcfDZV/T/w/Ze/TA/TIJgPsF9u/fhnatRGY06
-pwd 
-dirs 
+pwd
+dirs
 cd /o4M
-popd 
-pwd 
-dirs 
+popd
+pwd
+dirs
 cd /9Ax/7TgQS4Cx
 cd /X/JB
-pwd 
-pwd 
-popd 
-dirs 
+pwd
+pwd
+popd
+dirs
 pushd /jQ3YAG2j
-popd 
-popd 
+popd
+popd
 pushd /ZVxOTmgj/NbgbQ/vu94zv/HkrqUY9/Gs42/ymA
-dirs 
+dirs
 pushd /
 cd /jMxu49r
-pushd 
-pwd 
-dirs 
-popd 
-popd 
-pwd 
+pushd
+pwd
+dirs
+popd
+popd
+pwd
 pushd /SdjX/clPN/y
-pushd 
-popd 
-popd 
-dirs 
-pushd 
+pushd
+popd
+popd
+dirs
+pushd
 pushd /xxb3HUxLeo
-pushd 
-pwd 
-popd 
-dirs 
-pwd 
-popd 
+pushd
+pwd
+popd
+dirs
+pwd
+popd
 cd /sQ/2qTgpTp6Dn
-pwd 
+pwd
 pushd /
-popd 
-dirs 
+popd
+dirs
 cd /JcbT/ZZa0XXE
-popd 
-popd 
-pushd 
-dirs 
+popd
+popd
+pushd
+dirs
 cd /0UuHm46Y3/ZWM1Im/0dkde/JQb2
-pwd 
-dirs 
-popd 
-pwd 
+pwd
+dirs
+popd
+pwd
 cd /1S6SE/Z/5J8k8WP/magfCd
 pushd /i
 cd /
-popd 
-pushd 
-cd 
+popd
+pushd
+cd
 pushd /s57WFXqAW/6/T2B
-popd 
+popd
 cd /
-dirs 
+dirs
 pushd /ema/pWOM7IQ/NJKLyH1Z
-pwd 
-pwd 
-popd 
-pwd 
-dirs 
+pwd
+pwd
+popd
+pwd
+dirs
 cd /C3132RX/HiX2tmY/ty2XJWw
 pushd /UN/F7AUw/ut
-pwd 
+pwd
 pushd /laq4
 pushd /
 cd /mnHuTNN0X/U/Ztj/jceRnc/0nX
-pwd 
+pwd
 pushd /K/u1PC/yFo/MH6jvx1/bp2s
 pushd /4aVm1Dyl4P
 cd /Sbbustz
-dirs 
-popd 
-pushd 
+dirs
+popd
+pushd
 pushd /2ferXPMJ/jSzIxjIlIL/76zyArZ/R
-popd 
+popd
 cd /
-popd 
+popd
 pushd /E8JH6NJDB/do49XA1x5G/8s1/bP
-pwd 
-popd 
-pwd 
-popd 
-pwd 
+pwd
+popd
+pwd
+popd
+pwd
 pushd /
-pwd 
-dirs 
-pwd 
-popd 
-popd 
-dirs 
-pwd 
-pushd 
+pwd
+dirs
+pwd
+popd
+popd
+dirs
+pwd
+pushd
 cd /89cVBA1
 pushd /iLmJYmd8/Yfy/Shqb/Twm/pp
-popd 
-dirs 
-dirs 
-popd 
+popd
+dirs
+dirs
+popd
 cd /tOnBXwC
 cd /
 cd /Ro7muTf
 cd /
-pwd 
+pwd
 pushd /
 cd /h
 cd /ejhdDic1/O3mIxma/ap/F06QlgtC
-cd 
-popd 
+cd
+popd
 pushd /USNhlQK1z
 cd /
-dirs 
-popd 
-dirs 
-pwd 
-pwd 
-dirs 
+dirs
+popd
+dirs
+pwd
+pwd
+dirs
 pushd /GlsbXxlg/e/J2wVd1/4movFS
 pushd /
-pwd 
-pwd 
-popd 
-pushd 
-pwd 
-cd 
-pwd 
-pwd 
-pwd 
-popd 
-pwd 
-pwd 
-dirs 
-popd 
+pwd
+pwd
+popd
+pushd
+pwd
+cd
+pwd
+pwd
+pwd
+popd
+pwd
+pwd
+dirs
+popd
 pushd /biC/vXBjkws
-dirs 
-pushd 
+dirs
+pushd
 pushd /Yzhj/RCqVY
-pwd 
-popd 
-popd 
+pwd
+popd
+popd
 pushd /
-pwd 
-pwd 
+pwd
+pwd
 cd /hCw4922J/mtDyd
-pushd 
-pwd 
-popd 
-dirs 
+pushd
+pwd
+popd
+dirs
 pushd /bOpoKiAjZ
-dirs 
+dirs
 pushd /A/GJgIAByi8B
-dirs 
+dirs
 cd /
-popd 
-dirs 
-dirs 
-popd 
-pushd 
+popd
+dirs
+dirs
+popd
+pushd
 pushd /
 cd /NY2R/cB09AP/btOtB/fwPr0lCx/Pjem/h
-popd 
-dirs 
+popd
+dirs
 cd /xFJhui/K
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+dirs
 pushd /T/k
 cd /n/qXYWGl/wqRjSUp/lxZsvyE
 pushd /srMCke92
-dirs 
+dirs
 pushd /jWU33BYtQ/yld1Cn/31FT/5tW/vagfUOQ50s
-pwd 
-pwd 
+pwd
+pwd
 pushd /q9GfzeVXJ1/JiF2b2/IYo22qGmv4
 cd /z9sla
-popd 
+popd
 pushd /IcDf
-popd 
-pushd 
+popd
+pushd
 cd /KWk/gYEqluJN
-dirs 
-cd 
-pwd 
-dirs 
-pwd 
-pwd 
-pwd 
+dirs
+cd
+pwd
+dirs
+pwd
+pwd
+pwd
 cd /s5bv/xBDq6wNIt/PT/HFL
-dirs 
-dirs 
-popd 
-pwd 
+dirs
+dirs
+popd
+pwd
 cd /
-pwd 
+pwd
 pushd /CF4pDHGRQ/q
 cd /hbw51Wbo3q
-popd 
-pwd 
+popd
+pwd
 cd /F/Nc74GcdHM/Lb
-pwd 
-popd 
-popd 
-popd 
-pwd 
+pwd
+popd
+popd
+popd
+pwd
 pushd /
 pushd /iw/ty/jf29z5kCY/qZ
-pwd 
-pwd 
-dirs 
-popd 
+pwd
+pwd
+dirs
+popd
 pushd /yiPnp
-pwd 
-dirs 
+pwd
+dirs
 cd /
-dirs 
-popd 
-popd 
+dirs
+popd
+popd
 cd /
 pushd /a8
 cd /aIIdf0BDO/2C7ZFzgX9/1O7
-dirs 
+dirs
 cd /
-pwd 
-dirs 
-dirs 
-popd 
-popd 
+pwd
+dirs
+dirs
+popd
+popd
 pushd /tb/UUpdS
 pushd /6gDxoAaX8/7NSRJurK/y/LFLPshq/1
-dirs 
+dirs
 pushd /
-pwd 
-cd 
-popd 
-popd 
-dirs 
+pwd
+cd
+popd
+popd
+dirs
 pushd /
-popd 
-popd 
-dirs 
-popd 
-dirs 
+popd
+popd
+dirs
+popd
+dirs
 pushd /ou3/ISRm9TyQy7/C98H3NxEFm/ZYJoYJ8AN
-pwd 
+pwd
 cd /xJWb3KwAu
-popd 
-dirs 
-popd 
-popd 
-pwd 
+popd
+dirs
+popd
+popd
+pwd
 pushd /
-popd 
-pwd 
-pwd 
-dirs 
+popd
+pwd
+pwd
+dirs
 pushd /
-pwd 
-cd 
-dirs 
+pwd
+cd
+dirs
 cd /
 pushd /30Ep9/9vy/bYvh/50UBnh/nc0KsRHw0
-pushd 
-pushd 
-dirs 
-pwd 
+pushd
+pushd
+dirs
+pwd
 cd /
 cd /TVCgy/8iO/aaT/9/RSsuBgamfl/8
-dirs 
-popd 
-dirs 
-dirs 
+dirs
+popd
+dirs
+dirs
 cd /GmTrWI
-dirs 
-dirs 
-cd 
-cd 
-dirs 
+dirs
+dirs
+cd
+cd
+dirs
 pushd /
-dirs 
-pwd 
-popd 
-popd 
-popd 
+dirs
+pwd
+popd
+popd
+popd
 pushd /uZqsv1w
-dirs 
-popd 
+dirs
+popd
 pushd /evQ
 cd /taa/6rDDUzi3f/v2ylZoaPrs/Pyl4EZz6
 cd /yw
-pwd 
+pwd
 cd /O/FTw3JfOb5i/5/pOAJ/oZFUQrI
 pushd /ZBrfnJg
 pushd /
-cd 
+cd
 cd /GLk6W8/kGfS/joFvx/8NTyxA
-pwd 
-dirs 
-dirs 
+pwd
+dirs
+dirs
 cd /tBRdosCR/OT8PSHtb
-popd 
-pushd 
-popd 
-pwd 
-cd 
-popd 
+popd
+pushd
+popd
+pwd
+cd
+popd
 cd /UsEClGnPu/ZswPhi/vwLIQPtO
-dirs 
-popd 
-cd 
-dirs 
+dirs
+popd
+cd
+dirs
 pushd /9/du1YFzs/3p0WrSNp/oAjDFkK/LjAoHs9fF
 pushd /3jj
-popd 
-dirs 
-popd 
-pwd 
-dirs 
+popd
+dirs
+popd
+pwd
+dirs
 cd /
-dirs 
+dirs
 cd /DVsSTI/QRNA/PWRZ4/t/afgnre/ssrF/y5BFoYh/LXmilzfU/WZy
-pwd 
-dirs 
+pwd
+dirs
 pushd /4mcqHTp9T/FtwddrW
-dirs 
-pwd 
-cd 
-dirs 
-dirs 
+dirs
+pwd
+cd
+dirs
+dirs
 pushd /ljaFO/QA/nL4brbF
-pwd 
-dirs 
-pwd 
-pwd 
-pwd 
-pushd 
-dirs 
+pwd
+dirs
+pwd
+pwd
+pwd
+pushd
+dirs
 pushd /CVRWzUJsCA/D2Rc5onf/81dG4bn0/rAjdaJnJo
-popd 
+popd
 cd /G/kj233E/52iSVC9bh/5Mj
-popd 
+popd
 cd /r55Eb
-dirs 
-dirs 
-dirs 
+dirs
+dirs
+dirs
 pushd /Eu8m4kgF
-cd 
-pwd 
-dirs 
-popd 
-pwd 
-popd 
-popd 
-pwd 
-dirs 
-pwd 
-popd 
+cd
+pwd
+dirs
+popd
+pwd
+popd
+popd
+pwd
+dirs
+pwd
+popd
 cd /
 cd /
-pwd 
-dirs 
+pwd
+dirs
 pushd /bxv
-dirs 
-pushd 
-dirs 
-dirs 
-pwd 
-dirs 
+dirs
+pushd
+dirs
+dirs
+pwd
+dirs
 cd /
-pwd 
+pwd
 cd /cp3B/NBGA
-dirs 
-dirs 
-pushd 
-popd 
-popd 
-popd 
+dirs
+dirs
+pushd
+popd
+popd
+popd
 cd /zro5TnmCH
-pwd 
+pwd
 cd /hPDNZtuT
 pushd /djsv
-cd 
+cd
 cd /G/662DNCiYzq/D2z2nQO/sY8
-dirs 
+dirs
 cd /sY/du/zJ9zNu/BKTRhMh/iuhkDHO/cAzmRRqfz3
 pushd /dEx/eN8Fqa3d/dXt/WmIFymi4P/S6B4q/ktKnmLMdle/s/6SqP0E6TE/sPx
-dirs 
-dirs 
-cd 
-dirs 
+dirs
+dirs
+cd
+dirs
 cd /
-popd 
+popd
 cd /SrrCm75/z6EPRE6s/0tpD/60hRXR/zy6PM59z
-dirs 
-pwd 
-popd 
-dirs 
-dirs 
+dirs
+pwd
+popd
+dirs
+dirs
 pushd /0dXP54znfk
-dirs 
-popd 
+dirs
+popd
 cd /K3K/CGyzXY
 pushd /IyPQoHsH/tf3z/rL/Uf49/DY9qs9bdV/UF7/mWnpqrEH/ydcHY2Ht/dWlKfZqk6Q
 pushd /o
 pushd /p9TxBxi6sS/rxef3U2/1aCTj
-pwd 
+pwd
 pushd /DT6Z/qu5NIg7Oq/y
-pushd 
-pwd 
+pushd
+pwd
 cd /64s8A
-dirs 
-popd 
+dirs
+popd
 cd /4teVs
-pwd 
-popd 
-pwd 
-dirs 
-dirs 
-pushd 
+pwd
+popd
+pwd
+dirs
+dirs
+pushd
 pushd /akq
 cd /
 pushd /23Ur/DEDFZgd/1ZDcMV/aqX8GyI/UUuzQzw4J
-popd 
-pwd 
-pwd 
-dirs 
+popd
+pwd
+pwd
+dirs
 pushd /jTJ9MsgYdC/yFb6/ZSm2/TCA8eA5OO/M
-popd 
-pwd 
-pwd 
+popd
+pwd
+pwd
 pushd /
 pushd /
-popd 
+popd
 pushd /1RzV
 cd /
-pwd 
-popd 
+pwd
+popd
 pushd /
 pushd /dbN/J7vSm1dj/HYUg7U8NNj/YOb/BUTXbo/E24u/jKY8DQ/CNxh
 pushd /U0udNr
-popd 
+popd
 cd /
-popd 
+popd
 pushd /TlivEgnQa
-cd 
-popd 
-popd 
-pwd 
-dirs 
+cd
+popd
+popd
+pwd
+dirs
 cd /WH
 pushd /gQ1L/RiqKp3dBrM/C7lT3S5Qm
-popd 
-pwd 
-pwd 
-popd 
-pwd 
+popd
+pwd
+pwd
+popd
+pwd
